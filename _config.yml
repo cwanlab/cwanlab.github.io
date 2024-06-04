@@ -23,9 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Guihong Wan"
-  bio              : "Instructor at Havard Medical School"
-  bio              : "Research Fellow at Massachusetts General Hospital"
-  bio              : "NIH/NCI K99 Awardee"
+  bio              : "Instructor at Havard Medical School \nResearch Fellow at Massachusetts General Hospital"
   location         : "Boston"
   employer         : "Havard"
   email            : "guihong.wan@outlook.com" 
