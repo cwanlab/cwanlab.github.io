@@ -2,6 +2,7 @@
 main:
   - title: "About"
     url: https://cwanlab.github.io   
+
   - title: "Publications"
     url: /publications/    
 
@@ -14,5 +15,5 @@ main:
   - title: "Posts"
     url: /year-archive/
     
-  - title: "Guide"
-    url: /markdown/
+  - title: "Group"
+    url: /group/
