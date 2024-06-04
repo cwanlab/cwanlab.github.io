@@ -6,12 +6,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+<span style="font-size:0.625em;">
 I am a Computer Scientist and an Instructor at Harvard Medical School and Massachusetts General Hospital, working with the Semenov Group.
 Previously I was a postdoctoral researcher at Harvard Medical School and Massachusetts General Hospital. 
-I received my PhD degree in Computer Science from the University of Texas at Dallas in 2021, where I was fortunate to be advised by Haim Schweitzer. 
-
+I received my PhD degree in Computer Science from the University of Texas at Dallas in 2021, where I was fortunate to be advised by Haim Schweitzer.         
+</span>
+<span style="font-size:0.625em;">
 My research focuses on the development of computational methodologies for multimodal analyses and explainable machine learning models of biomedical data, which will enable personalized medicine.
+</span>
 
 <span style="color:blue">*News*</span>   
 – 5/13/2024: Our paper "Multi-organ toxicities from immune checkpoint blockade and their downstream implications: a retrospective multi-cohort study" was accepted by The Lancet Oncology!       
