@@ -217,7 +217,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: false
+      read_time: true
       comments: true
       share: true
       related: true
@@ -261,14 +261,6 @@ defaults:
       type: talks
     values:
       layout: talk
-      author_profile: true
-      share: true
-  # _group
-  - scope:
-      path: ""
-      type: group
-    values:
-      layout: single
       author_profile: true
       share: true
 
