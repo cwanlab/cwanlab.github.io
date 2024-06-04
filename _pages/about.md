@@ -28,15 +28,22 @@ My research focuses on the development of computational methodologies for multim
 <span style="font-size:0.78em;">
 – 11/14/2023: Our paper "Spectral Pursuit for Simultaneous Sparse Representation with Accuracy Guarantees" was accepted by International Journal of Data Science and Analytics! [Paper](https://link.springer.com/article/10.1007/s41060-023-00480-y)    
 – 8/28/2023: Our paper "Development and Validation of Time-to-Event Models to Predict Metastatic Recurrence of Localized Cutaneous Melanoma" was accepted by Journal of the American Academy of Dermatology! [Paper](https://www.sciencedirect.com/science/article/pii/S0190962223028815)
-– 8/22/2023: Our paper "The Art of Centering Without Centering for Robust Principal Component Analysis" was accepted by Data Mining and Knowledge Discovery! [Paper](https://link.springer.com/article/10.1007/s10618-023-00976-y)     
+– 9/11/2023: Our paper "Pre-Existing Inflammatory Disease Predicts Cutaneous Immunotherapy Toxicity Development: A Multi-Institutional Cohort Study" was was accepted for publication by Journal of the American Academy of Dermatology!
+– 8/22/2023: Our paper "The Art of Centering Without Centering for Robust Principal Component Analysis" was accepted by Data Mining and Knowledge Discovery! [Paper](https://link.springer.com/article/10.1007/s10618-023-00976-y)    
+– 6/17/2023: Dr. Wan received **an impact score of 15** for her NIH/NCI K99 application!
+– 4/17/2023: Our paper "A polygenic risk score for predicting racial and genetic susceptibility to prurigo nodulari" was accepted for publication in the Journal of Investigative Dermatology!      
+– 2/3/2023: Our paper "Increased Risk of Cutaneous Immune-Related Adverse Events in Patients Treated with Talimogene Laherparepvec and Immune Checkpoint Inhibitors: A Multi-institutional Cohort Study" was accepted for publication in Journal of the American Academy of Dermatology!     
+– 2/2/2023: Our paper "Influence of melanoma type on incidence and downstream implications of cutaneous immune-related adverse events in the setting of immune checkpoint inhibitor therapy" was accepted for publication in Journal of the American Academy of Dermatology!     
 </span> 
 **2022**    
 <span style="font-size:0.78em;">
 – 12/19/2022: Dr. Wan received **the MGH ECOR Fund for Medical Discovery (FMD) Clinical Research Fellowship Award**!
 – 12/15/2022: Our paper "Cutaneous immune-related adverse events are associated with longer overall survival in advanced cancer patients on immune checkpoint inhibitors: a multi-institutional cohort study" was accepted for publication in Journal of the American Academy of Dermatology! [Paper](https://www.sciencedirect.com/science/article/pii/S0190962223001536)   
 – 11/19/2022: Our paper "Electrophysiological Brain Source Imaging via Combinatorial Search with Provable Optimality" was accepted by AAAI 2023! [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/26471)     
-– 11/4/2022: Our research was included in [The Havard Gazette](https://news.harvard.edu/gazette/story/2022/11/ai-tool-predicts-melanoma-survivors-risk-of-recurrence/)       
+– 11/4/2022: Our research was reported in [The Havard Gazette](https://news.harvard.edu/gazette/story/2022/11/ai-tool-predicts-melanoma-survivors-risk-of-recurrence/)       
+– 10/16/2022: Our study "Anytime Combinatorial Search for Matrix Sparse Representation" won the second place in the Best Paper Competition in the theoretical track for the 17th INFORMS Workshop on Data Mining and Decision Analytics.
 – 9/20/2022: Our paper "Prediction of Early-Stage Melanoma Recurrence Using Clinical and Histopathologic Features" 
-was accepted for publication in npj Precision Oncology! [Paper](https://www.nature.com/articles/s41698-022-00321-4)     
-– 7/15/2022:  Dr. Wan received **the 2022 Dermatology Fellowship Award from Melanoma Research Alliance**.     
+was accepted for publication in npj Precision Oncology! [Paper](https://www.nature.com/articles/s41698-022-00321-4)      
+– 9/11/2022: Our study "Anytime Combinatorial Search for Matrix Sparse Representation" was selected as the Best Paper Finalist in the theoretical track for the 17th INFORMS Workshop on Data Mining and Decision Analytics.     
+– 7/15/2022:  Dr. Wan received **the 2022 Dermatology Fellowship Award from Melanoma Research Alliance**!      
 </span> 
