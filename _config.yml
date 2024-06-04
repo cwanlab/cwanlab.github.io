@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Guihong Wan"
-  bio              : "Instructor at Havard Medical School; Researcher at Massachusetts General Hospital"
+  bio              : "Instructor at Havard Medical School\nResearcher at Mass General Hospital"
   location         : "Boston"
   employer         : "Havard"
   email            : "guihong.wan@outlook.com" 
@@ -59,7 +59,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "GHWANPhD"
+  twitter          : # Username
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
