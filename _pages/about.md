@@ -37,14 +37,14 @@ My research focuses on the development of computational methodologies for multim
 </span>      
 **2022**    
 <span style="font-size:0.78em;">
-– 12/19/2022: Dr. Wan received **the MGH ECOR Fund for Medical Discovery (FMD) Clinical Research Fellowship Award**!     
+– 12/19/2022: Dr. Wan received **the MGH Fund for Medical Discovery (FMD) Clinical Research Fellowship Award**!     
 – 12/15/2022: Our paper "Cutaneous immune-related adverse events are associated with longer overall survival in advanced cancer patients on immune checkpoint inhibitors: a multi-institutional cohort study" was accepted for publication in Journal of the American Academy of Dermatology! [Paper](https://www.sciencedirect.com/science/article/pii/S0190962223001536)   
 – 11/19/2022: Our paper "Electrophysiological Brain Source Imaging via Combinatorial Search with Provable Optimality" was accepted by AAAI 2023! [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/26471)     
-– 11/4/2022: Our research was reported in [The Havard Gazette](https://news.harvard.edu/gazette/story/2022/11/ai-tool-predicts-melanoma-survivors-risk-of-recurrence/)       
-– 10/16/2022: Our study "Anytime Combinatorial Search for Matrix Sparse Representation" won the second place in the Best Paper Competition in the theoretical track for the 17th INFORMS Workshop on Data Mining and Decision Analytics.    
+– 11/4/2022: Our research was reported in [The Havard Gazette](https://news.harvard.edu/gazette/story/2022/11/ai-tool-predicts-melanoma-survivors-risk-of-recurrence/).       
+– 10/16/2022: Our study "Anytime Combinatorial Search for Matrix Sparse Representation" won the second place in the Best Paper Competition for the 17th INFORMS Workshop on Data Mining and Decision Analytics.    
 – 9/20/2022: Our paper "Prediction of Early-Stage Melanoma Recurrence Using Clinical and Histopathologic Features" 
 was accepted for publication in npj Precision Oncology! [Paper](https://www.nature.com/articles/s41698-022-00321-4)      
 – 9/11/2022: Our study "Anytime Combinatorial Search for Matrix Sparse Representation" was selected as the Best Paper Finalist in the theoretical track for the 17th INFORMS Workshop on Data Mining and Decision Analytics.     
-– 8/29/2022:  Our paper "Germline variants associated with toxicity to immune checkpoint blockade" was accepted for publication by Nature Medicine!
+– 8/29/2022:  Our paper "Germline variants associated with toxicity to immune checkpoint blockade" was accepted for publication by Nature Medicine!      
 – 7/15/2022:  Dr. Wan received **the 2022 Dermatology Fellowship Award from Melanoma Research Alliance**!      
 </span> 
