@@ -8,7 +8,8 @@ redirect_from:
 <span style="font-size:0.87em;">
 I am a Computer Scientist and an Instructor at Harvard Medical School and Massachusetts General Hospital, working with the Semenov group.
 Prior to that, I was a postdoctoral researcher at Harvard Medical School and Massachusetts General Hospital. 
-I received my PhD degree in Computer Science from the University of Texas at Dallas in 2021, where I was fortunate to be advised by Haim Schweitzer.</span>           
+I received my PhD degree in Computer Science from the University of Texas at Dallas in 2021, 
+where I was fortunate to be advised by Dr. Haim Schweitzer.</span>           
 
 <span style="font-size:0.87em;">
 My research focuses on the development of computational methodologies for multimodal analyses and explainable machine learning models of biomedical data, which will enable personalized medicine.</span>     
@@ -28,12 +29,15 @@ My research focuses on the development of computational methodologies for multim
 <span style="font-size:0.78em;">
 – 11/14/2023: Our paper "Spectral Pursuit for Simultaneous Sparse Representation with Accuracy Guarantees" was accepted by International Journal of Data Science and Analytics! [Paper](https://link.springer.com/article/10.1007/s41060-023-00480-y)    
 – 8/28/2023: Our paper "Development and Validation of Time-to-Event Models to Predict Metastatic Recurrence of Localized Cutaneous Melanoma" was accepted by Journal of the American Academy of Dermatology! [Paper](https://www.sciencedirect.com/science/article/pii/S0190962223028815)    
+– 10/30/2023: Three abstracts were accepted by the AAAI-2024 Student Abstract and Poster Program.
 – 9/11/2023: Our paper "Pre-Existing Inflammatory Disease Predicts Cutaneous Immunotherapy Toxicity Development: A Multi-Institutional Cohort Study" was was accepted for publication by Journal of the American Academy of Dermatology!     
 – 8/22/2023: Our paper "The Art of Centering Without Centering for Robust Principal Component Analysis" was accepted by Data Mining and Knowledge Discovery! [Paper](https://link.springer.com/article/10.1007/s10618-023-00976-y)    
 – 6/17/2023: Dr. Wan received **an impact score of 15** for her NIH/NCI K99 application!      
-– 4/17/2023: Our paper "A polygenic risk score for predicting racial and genetic susceptibility to prurigo nodulari" was accepted for publication in the Journal of Investigative Dermatology!      
-– 2/3/2023: Our paper "Increased Risk of Cutaneous Immune-Related Adverse Events in Patients Treated with Talimogene Laherparepvec and Immune Checkpoint Inhibitors: A Multi-institutional Cohort Study" was accepted for publication in Journal of the American Academy of Dermatology!     
-– 2/2/2023: Our paper "Influence of melanoma type on incidence and downstream implications of cutaneous immune-related adverse events in the setting of immune checkpoint inhibitor therapy" was accepted for publication in Journal of the American Academy of Dermatology!     
+– 4/17/2023: Our paper "A polygenic risk score for predicting racial and genetic susceptibility to prurigo nodulari" was accepted for publication in the Journal of Investigative Dermatology! [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0022202X23021255)    
+– 3/10/2023: Dr. Wan received **a scholarship of $80,500** from Harvard T.H. Chan School of Public Health.    
+– 3/9/2023: Dr. Wan got acceptance into the M.S. program in Computational Biology and Quantitative Genetics at Harvard T.H. Chan School of Public Health.    
+– 2/3/2023: Our paper "Increased Risk of Cutaneous Immune-Related Adverse Events in Patients Treated with Talimogene Laherparepvec and Immune Checkpoint Inhibitors: A Multi-institutional Cohort Study" was accepted for publication in Journal of the American Academy of Dermatology! [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0190962223002682)       
+– 2/2/2023: Our paper "Influence of melanoma type on incidence and downstream implications of cutaneous immune-related adverse events in the setting of immune checkpoint inhibitor therapy" was accepted for publication in Journal of the American Academy of Dermatology! [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0190962223002049)          
 </span>      
 **2022**    
 <span style="font-size:0.78em;">
