@@ -249,7 +249,7 @@ defaults:
   # _portfolio
   - scope:
       path: ""
-      type: portfolio
+      type: AWARDS
     values:
       layout: single
       author_profile: true

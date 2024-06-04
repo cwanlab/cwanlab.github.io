@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "CWan Lab"
+title: "Guihong Wan"
 author_profile: true
 redirect_from: 
   - /about/
