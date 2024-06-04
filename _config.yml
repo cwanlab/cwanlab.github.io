@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "CWan Lab"
 title_separator          : "-"
-name                     : &name "Guihong Wan"
+name                     : &name "Guihong WAN"
 description              : &description "personal description"
 url                      : https://cwanlab.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -281,7 +281,6 @@ timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_ti
 # Plugins
 plugins:
   - jekyll-paginate
-  - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
