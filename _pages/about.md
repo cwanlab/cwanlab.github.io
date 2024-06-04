@@ -11,4 +11,9 @@ This is the front page of a website that is powered by the [Academic Pages templ
 
 
 <span style="color:blue">*News*</span>   
-*    **5/13/2024**: Our paper "Multi-organ toxicities from immune checkpoint blockade and their downstream implications: a retrospective multi-cohort study" was accepted by The Lancet Oncology.
+5/13/2024: Our paper "Multi-organ toxicities from immune checkpoint blockade and their downstream implications: a retrospective multi-cohort study" was accepted by The Lancet Oncology!      
+4/2/2024: Our paper "SpatialCells: automated profiling of tumor microenvironments with spatially resolved multiplexed single-cell data"
+[Paper](https://academic.oup.com/bib/article/25/3/bbae189/7663435) was accepted by Briefings in Bioinformatics!
+2/9/2024: Dr. Wan received NIH/NCI K99 Career Development Award!
+2/2/2024: Our paper "Cancer Type and Histology Influence Cutaneous Immunotherapy Toxicities: A Multi-Institutional Cohort Study" was accepted by British Journal of Dermatology!
+2/1/2024: Dr. Wan has been promoted as Instructor at Harvard Medical School! 
