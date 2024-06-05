@@ -3,7 +3,7 @@ layout: archive
 permalink: /group/
 author_profile: true
 redirect_from:
-  - /resume
+  - /group
 ---
 
 {% include base_path %}

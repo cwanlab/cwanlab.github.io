@@ -1,9 +1,9 @@
 ---
 layout: archive
-permalink: /group/
+permalink: /funding/
 author_profile: true
 redirect_from:
-  - /resume
+  - /funding
 ---
 
 {% include base_path %}
