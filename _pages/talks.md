@@ -3,7 +3,7 @@ layout: archive
 permalink: /talks/
 author_profile: true
 redirect_from:
-  - /resume
+  - /talks
 ---
 
 {% include base_path %}
