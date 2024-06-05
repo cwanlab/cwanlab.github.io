@@ -10,19 +10,19 @@ redirect_from:
 
 **Education**    
 <span style="font-size:0.87em;">
-– Ph.D., Computer Science, University of Texas at Dallas, 8/2021    
-– M.S., Computer Science, University of Texas at Dallas, 5/2021    
-– M.S., Computational Biology and Quantitative Genetics, Harvard University, 5/2027 (expected)
+Ph.D., Computer Science, University of Texas at Dallas, 8/2021    
+M.S., Computer Science, University of Texas at Dallas, 5/2021    
+M.S., Computational Biology and Quantitative Genetics, Harvard University, 5/2027 (expected)
 </span>      
 
 **Postdoctoral Training**    
 <span style="font-size:0.87em;">
-– Machine Learning in Healthcare; Biomedical Informatics, Massachusetts General Hospital, Harvard Medical School, 1/2024
+Machine Learning in Healthcare; Biomedical Informatics, Massachusetts General Hospital, Harvard Medical School, 1/2024
 </span>    
   
 **Academic Faculty Position**    
 <span style="font-size:0.87em;">
-– Instructor in the Department of Dermatology, Massachusetts General Hospital and Harvard Medical School, 2/2024 – Current    
+Instructor in the Department of Dermatology, Massachusetts General Hospital and Harvard Medical School, 2/2024 – Current    
 
 **Academic Services**    
 <span style="font-size:0.87em;">
