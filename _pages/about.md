@@ -33,7 +33,7 @@ My research focuses on the development of computational methodologies for multim
 <span style="font-size:0.78em;">
 – 11/14/2023: Our paper "Spectral Pursuit for Simultaneous Sparse Representation with Accuracy Guarantees" was accepted by International Journal of Data Science and Analytics! [Paper](https://link.springer.com/article/10.1007/s41060-023-00480-y)    
 – 8/28/2023: Our paper "Development and Validation of Time-to-Event Models to Predict Metastatic Recurrence of Localized Cutaneous Melanoma" was accepted by Journal of the American Academy of Dermatology! [Paper](https://www.sciencedirect.com/science/article/pii/S0190962223028815)    
-– 10/30/2023: Three abstracts were accepted by the AAAI-2024 Student Abstract and Poster Program.
+– 10/30/2023: Three abstracts were accepted by the AAAI-2024 Student Abstract and Poster Program.      
 – 9/11/2023: Our paper "Pre-Existing Inflammatory Disease Predicts Cutaneous Immunotherapy Toxicity Development: A Multi-Institutional Cohort Study" was was accepted for publication by Journal of the American Academy of Dermatology!     
 – 8/22/2023: Our paper "The Art of Centering Without Centering for Robust Principal Component Analysis" was accepted by Data Mining and Knowledge Discovery! [Paper](https://link.springer.com/article/10.1007/s10618-023-00976-y)    
 – 6/17/2023: Dr. Wan received **an impact score of 15** for her NIH/NCI K99 application!      
