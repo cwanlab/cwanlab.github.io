@@ -11,9 +11,9 @@ redirect_from:
 **National Cancer Institute, K99/R00 Pathway to Independence Award**      
 <span style="font-size:0.87em;">
 – Project: Explainable Artificial Intelligence for Melanoma Recurrence Prediction via Integrative Modeling of
-Multiplexed Imaging with Transcriptomics and Histopathology
-– Principal Investigator: Guihong Wan
-– Award duration for the K99 phase: 02/2024-01/2026    
+Multiplexed Imaging with Transcriptomics and Histopathology [Details](https://reporter.nih.gov/search/HLO5t0xrqkuGwnjOVLLshQ/project-details/10796370)    
+– Principal Investigator: Guihong Wan     
+– Award duration for the K99 phase: 02/2024-01/2026     
 </span>  
 
 **MGH ECOR Fund for Medical Discovery, Clinical Research Fellowship Award**      
