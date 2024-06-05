@@ -8,7 +8,7 @@ redirect_from:
 
 {% include base_path %}
 
-**Letures**    
+**Lectures**    
 <span style="font-size:0.87em;">
 <!-- – Data analysis course. StatStart, a computational program for high school students,     -->
 – Introduction to Neural Networks on Graphs. Guest Lecture, Stevens Institute of Technology, NJ. 2022.
