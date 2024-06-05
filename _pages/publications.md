@@ -11,7 +11,9 @@ author_profile: true
 <span style="color:blue">*Selected Publications*</span>   
 **2024** 
 <span style="font-size:0.87em;">   
-**G. Wan**, Baokun He, Haim Schweitzer. The art of centering without centering for robust principal component analysis. Data Mining and Knowledge Discovery, 2024. [Paper](https://personal.utdallas.edu/~haim/publications/biastrick.pdf)     
+  **G. Wan**, Baokun He, Haim Schweitzer. The art of centering without centering for robust principal component analysis. Data Mining and Knowledge Discovery, 2024. [Paper](https://personal.utdallas.edu/~haim/publications/biastrick.pdf)     
+**G. Wan**, Z. Maliga, B. Yan, et al. SpatialCells: automated profiling of tumor microenvironments with spatially resolved multiplexed single-cell data. Briefings in Bioinformatics, 2024. [Paper](https://academic.oup.com/bib/article/25/3/bbae189/7663435)     
+**G. Wan**, S. Khattab, B. Leung, et al. Cancer Type and Histology Influence Cutaneous Immunotherapy Toxicities: A Multi-Institutional Cohort Study. British Journal of Dermatology, 2024. [Paper](https://academic.oup.com/bjd/advance-article-abstract/doi/10.1093/bjd/ljae053/7608988)    
 **G. Wan**, Haim Schweitzer. Spectral pursuit for simultaneous sparse representation with accuracy guarantees. International Journal of Data Science and Analytics, 2024. [Paper](https://link.springer.com/article/10.1007/s41060-023-00480-y)
 </span>
 
