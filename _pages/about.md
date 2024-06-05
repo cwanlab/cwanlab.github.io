@@ -23,6 +23,7 @@ My research focuses on the development of computational methodologies for multim
 – 2/9/2024: Dr. Wan received **NIH/NCI K99 Career Development Award**!        
 – 2/5/2024: Boshen got acceptance into the PhD program in Computational Biology from Carnegie Mellon University. Congratulations!    
 – 2/2/2024: Our paper "Cancer Type and Histology Influence Cutaneous Immunotherapy Toxicities: A Multi-Institutional Cohort Study" was accepted by British Journal of Dermatology! [Paper](https://academic.oup.com/bjd/advance-article-abstract/doi/10.1093/bjd/ljae053/7608988)    
+– 2/1/2024: Our paper "Identification of breast cancer subtypes based on graph convolutional network" has been published by Journal of Biomedical Engineering!
 – 2/1/2024: Dr. Wan has been promoted as **Instructor at Harvard Medical School**!    
 </span>      
 **2023**    
