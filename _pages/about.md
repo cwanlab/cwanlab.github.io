@@ -14,7 +14,7 @@ where I was fortunate to be advised by Dr. Haim Schweitzer.</span>
 <span style="font-size:0.87em;">
 My research focuses on the development of computational methodologies for multimodal analyses and explainable machine learning models of biomedical data, which will enable personalized medicine.</span>     
 
-<span style="color:blue">I am open to tenure-track assistant professor position opportunities, starting Fall 2025 or Spring 2026.</span> 
+<span style="color:blue">I am open to tenure-track assistant professor position opportunities, starting in Fall 2025 or Spring 2026.</span> 
 
 
 <span style="color:blue">*News*</span>    
