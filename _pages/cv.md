@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,56 +8,28 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+**Education**    
+– Ph.D., Computer Science, University of Texas at Dallas, 8/2021    
+– M.S., Computer Science, University of Texas at Dallas, 5/2021    
+– M.S., Computational Biology and Quantitative Genetics, Harvard University, 5/2027 (expected)    
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+**Postdoctoral Training**    
+– Machine Learning in Healthcare; Biomedical Informatics, Massachusetts General Hospital, Harvard Medical School, 1/2024    
+  
+**Academic Faculty Position**    
+– Instructor in the Department of Dermatology, Massachusetts General Hospital and Harvard Medical School, 2/2024 – Current    
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+**Academic Services**    
+– Conference Program Co-chair, The 16th International Conference on Brain Informatics (BI 2023)     
+– Journal Associate Editor, Digital Transformation and Society     
+– Program Committee, The AAAI Conference on Artificial Intelligence (AAAI 2021, 2022, 2023, 2024)    
+– Program Committee, ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2022, 2023, 2024)    
+– Program Committee, IEEE International Conference on Data Science and Advanced Analytics (DSAA 2021)    
+– Program Committee, IEEE International Conference on Tools with Artificial Intelligence (ICTAI 2021)    
+– Ad Hoc Reviewer, JAMA Dermatology    
+– Ad Hoc Reviewer, npj Digital Medicine    
+– Ad Hoc Reviewer, npj Precision Oncology    
+– Ad Hoc Reviewer, Frontiers in Neuroscience, Brain Imaging Methods    
+– Scientific Reviewer ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2021)    
+– Scientific Reviewer IEEE International Conference on Tools with Artificial Intelligence (ICTAI 2018, 2019)    
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
