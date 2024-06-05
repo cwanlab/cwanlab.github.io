@@ -11,13 +11,14 @@ author_profile: true
 <span style="color:blue">*Selected Publications*</span>   
 **2024** 
 <span style="font-size:0.87em;">   
-**G. Wan**, Baokun He, Haim Schweitzer. The art of centering without centering for robust principal component analysis. DMKD, 2023. [Paper](https://personal.utdallas.edu/~haim/publications/biastrick.pdf) 
-**G. Wan\*** Development and validation of time-to-event models to predict metastatic recurrence of localized cutaneous melanoma
+**G. Wan**, Baokun He, Haim Schweitzer. The art of centering without centering for robust principal component analysis. Data Mining and Knowledge Discovery, 2024. [Paper](https://personal.utdallas.edu/~haim/publications/biastrick.pdf)     
+**G. Wan**, Haim Schweitzer. Spectral pursuit for simultaneous sparse representation with accuracy guarantees. International Journal of Data Science and Analytics, 2024. [Paper](https://link.springer.com/article/10.1007/s41060-023-00480-y)
 </span>
 
 **2023**   
 <span style="font-size:0.87em;">
 **G. Wan**, M. Jiao, et al. Electrophysiological brain source imaging via combinatorial search with provable optimality. AAAI, 2023. [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/26471)    
+**G. Wan**, B. Leung, et al. Development and validation of time-to-event models to predict metastatic recurrence of localized cutaneous melanoma. JAAD, 2023. [Paper](https://www.sciencedirect.com/science/article/pii/S0190962223028815?casa_token=mpGg8Eu9tV4AAAAA:-wmLF6RTLTAvQg5XmMbJBaW5zcETpZo0DsOCKFeGg6NdCYYjnJckplRTy5xa9IwGX4maLObezg)    
 C. Vasavda\*, **G. Wan**\*, et al. A polygenic risk score for predicting racial and genetic susceptibility to prurigo nodularis. Journal of Investigative Dermatology, 2023. (\*Equal contribution) [Paper](https://www.sciencedirect.com/science/article/pii/S0022202X23021255)    
 B. Leung\*, **G. Wan**\*, et al. Increased risk of cutaneous immune-related adverse events in patients treated with talimogene laherparepvec and immune checkpoint inhibitors: A multi-hospital cohort study. JAAD, 2023. (\*Equal contribution) [Paper](https://www.sciencedirect.com/science/article/pii/S0190962223002682)    
 N. Nguyen\*, **G. Wan**\*, et al. Influence of melanoma type on incidence and downstream implications of cutaneous immune-related adverse events in the setting of immune checkpoint inhibitor therapy, JAAD, 2023. (\*Equal contribution) [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0190962223002049)    
