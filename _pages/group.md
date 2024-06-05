@@ -30,4 +30,5 @@ redirect_from:
 <span style="font-size:0.87em;">
 – Boshen Yan, 2023: PhD student (Computational Biology), Carnegie-Mellon University.     
 – Wenxin Chen, 2022: PhD student (Computer Science), Cornell University.
+– Shijia Zhang, 2021: PhD student (Biomedical Informatics and Data Science)
 </span>      
