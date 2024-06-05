@@ -4,13 +4,13 @@ main:
     url: https://cwanlab.github.io   
 
   - title: "Publications"
-    url: /publications/    
-
-  - title: "Teaching"
-    url: /teaching/    
+    url: /publications/       
     
   - title: "Funding"
     url: /funding/
+
+  - title: "Talks"
+    url: /talks/ 
         
   - title: "Experience"
     url: /cv/
