@@ -8,56 +8,25 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Mentors
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Eugene Semenov, MD, Dermatologist and Assistant Professor at Massachusetts General Hospital and Harvard Medical School        
+* Peter Sorger, PhD, Professor at Harvard Medical School    
+* Alexander Gusev, PhD, Associate Professor at Dana-Farber Cancer Institute and Harvard Medical School                 
+* Kun-Hsing Yu, MD, PhD, Assistant Professor at Harvard Medical School     
+* Alex K. Shalek, PhD, Associate Professor at Massachusetts Institute of Technology
 
-Work experience
+Collaborators
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Mia DeSimone, MD, Dermatopathologist in the Department of Pathology at Brigham and Women’s Hospital and Harvard Medical School    
+* Nga Nguyen, MD, MPH, Radiation Oncology Resident, Atrium Health Wake Forest Baptist
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Trainees
+======
+* Ninghui Hao, 2024, Master of Biomedical Informatics student at Harvard Medical School     
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Alumni
+======
+* Boshen Yan, 2023: PhD student (Computational Biology), Carnegie-Mellon University.
+* Wenxin Chen, 2022: PhD student (Computer Science), Cornell University.
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
