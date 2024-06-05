@@ -8,13 +8,13 @@ redirect_from:
 
 {% include base_path %}
 
-<span style="font-size:0.92em;">Mentors</span>      
+**Mentors**  
 <span style="font-size:0.87em;">
-* Eugene Semenov, MD, Dermatologist and Assistant Professor at Massachusetts General Hospital and Harvard Medical School        
-* Peter Sorger, PhD, Professor at Harvard Medical School    
-* Alexander Gusev, PhD, Associate Professor at Dana-Farber Cancer Institute and Harvard Medical School                 
-* Kun-Hsing Yu, MD, PhD, Assistant Professor at Harvard Medical School     
-* Alex K. Shalek, PhD, Associate Professor at Massachusetts Institute of Technology
+– Eugene Semenov, MD, Dermatologist and Assistant Professor at Massachusetts General Hospital and Harvard Medical School        
+– Peter Sorger, PhD, Professor at Harvard Medical School    
+– Alexander Gusev, PhD, Associate Professor at Dana-Farber Cancer Institute and Harvard Medical School                 
+– Kun-Hsing Yu, MD, PhD, Assistant Professor at Harvard Medical School     
+– Alex K. Shalek, PhD, Associate Professor at Massachusetts Institute of Technology
 </span>    
 
 <span style="font-size:0.92em;">Collaborators</span>       
@@ -31,4 +31,4 @@ redirect_from:
 <span style="font-size:0.87em;">      
 * Boshen Yan, 2023: PhD student (Computational Biology), Carnegie-Mellon University.
 * Wenxin Chen, 2022: PhD student (Computer Science), Cornell University.
-</span>      
+</span>  
