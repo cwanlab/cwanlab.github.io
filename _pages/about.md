@@ -14,13 +14,13 @@ where I was fortunate to be advised by Dr. Haim Schweitzer.</span>
 <span style="font-size:0.87em;">
 My research focuses on the development of computational methodologies for multimodal analyses and explainable machine learning models of biomedical data, which will enable personalized medicine.</span>     
 
-<span style="color:blue">I am open to tenure-track assistant professor position opportunities, starting in Fall 2025 or Spring 2026.</span> 
+<span style="color:blue">I am seeking a tenure-track assistant professor position.</span> 
 
 
 <span style="color:blue">*News*</span>    
 **2024**         
 <span style="font-size:0.78em;">
-– 5/13/2024: Our paper "Multi-organ toxicities from immune checkpoint blockade and their downstream implications: a retrospective multi-cohort study" was accepted by **The Lancet Oncology**!       
+– 5/13/2024: Our paper "Multi-organ toxicities from immune checkpoint blockade and their downstream implications: a retrospective multi-cohort study" was accepted by **The Lancet Oncology**! [Paper]([https://academic.oup.com/bib/article/25/3/bbae189/7663435](https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(24)00278-X/abstract)) [Press] (https://www.massgeneral.org/news/research-spotlight/patterns-prognostications-immune-related-adverse-events)       
 – 4/2/2024: Our paper "SpatialCells: automated profiling of tumor microenvironments with spatially resolved multiplexed single-cell data" was accepted by Briefings in Bioinformatics! [Paper](https://academic.oup.com/bib/article/25/3/bbae189/7663435) [Code](https://semenovlab.github.io/SpatialCells/)        
 – 2/23/2024: Our study "Individualized melanoma risk prediction using machine learning with electronic health records" was accepted for Oral Presentation at 2024 SID Annual Meeting.          
 – 2/9/2024: Dr. Wan received **NIH/NCI K99 Career Development Award**!        
