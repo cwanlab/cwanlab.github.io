@@ -6,12 +6,16 @@ author_profile: true
 <span style="font-size:1em;">Artificial Intelligence in Medicine</span>
 <span style="font-size:0.87em;">  
 <!--  -->
-– **G. Wan**, W. Chen, S. Khattab, K. Roster, N. Nguyen, B. Yan, A. Rajeh, J. Seo, H. Rashdan, L. Zubiri, M.J. Hadfield, S. Demehri, K.H. Yu, W. Lotter, A. Gusev, N.R. LeBoeuf, K.L. Reynolds, S.G. Kwatra, Y.R. Semenov. Multi-organ immune-related adverse events from immune checkpoint inhibitors and their downstream implications: a retrospective multicohort study. **The Lancet Oncology**, 2024. [Paper](https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(24)00278-X/abstract)
-<!--  -->
-– **G. Wan**, Baokun He, Haim Schweitzer. The art of centering without centering for robust principal component analysis. Data Mining and Knowledge Discovery, 2024. [Paper](https://personal.utdallas.edu/~haim/publications/biastrick.pdf)     
-– **G. Wan**, Z. Maliga, B. Yan, et al. SpatialCells: automated profiling of tumor microenvironments with spatially resolved multiplexed single-cell data. Briefings in Bioinformatics, 2024. [Paper](https://academic.oup.com/bib/article/25/3/bbae189/7663435)     
+- **G. Wan**, W. Chen, S. Khattab, K. Roster, N. Nguyen, B. Yan, A. Rajeh, J. Seo, H. Rashdan, L. Zubiri, M.J. Hadfield, S. Demehri, K.H. Yu, W. Lotter, A. Gusev, N.R. LeBoeuf, K.L. Reynolds, S.G. Kwatra, Y.R. Semenov. Multi-organ immune-related adverse events from immune checkpoint inhibitors and their downstream implications: a retrospective multicohort study. **The Lancet Oncology**, 2024. [Paper](https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(24)00278-X/abstract)
+<br>
+- **G. Wan**, Baokun He, Haim Schweitzer. The art of centering without centering for robust principal component analysis. Data Mining and Knowledge Discovery, 2024. [Paper](https://personal.utdallas.edu/~haim/publications/biastrick.pdf)     
+<br>
+- **G. Wan**, Z. Maliga, B. Yan, et al. SpatialCells: automated profiling of tumor microenvironments with spatially resolved multiplexed single-cell data. Briefings in Bioinformatics, 2024. [Paper](https://academic.oup.com/bib/article/25/3/bbae189/7663435)     
+<br>
 – **G. Wan**, S. Khattab, B. Leung, et al. Cancer type and histology influence cutaneous immunotherapy toxicities: a multi-institutional cohort study. British Journal of Dermatology, 2024. [Paper](https://academic.oup.com/bjd/advance-article-abstract/doi/10.1093/bjd/ljae053/7608988)    
+<br>
 – **G. Wan**, Haim Schweitzer. Spectral pursuit for simultaneous sparse representation with accuracy guarantees. International Journal of Data Science and Analytics, 2024. [Paper](https://link.springer.com/article/10.1007/s41060-023-00480-y).        
+<br>
 – Y. An, X. Liu, H. Chen, **G. Wan**. Identification of breast cancer subtypes based on graph convolutional network. Journal of Biomedical Engineering, 2024.        
 – H. Rashdan, S. Zhang, **G. Wan**, N. Nguyen, K. Roster, A. Rajeh, K. Tang, W. Chen, C. Moseley, S. Chen, N. LeBoeuf, Y.R. Semenov. Timing of cutaneous immune-related adverse events impacts survival in patients with cancer treated with immune-checkpoint inhibitors: A multi-institutional cohort study. Journal of the American Academy of Dermatology, 2024. [Paper](https://doi.org/10.1016/j.jaad.2024.01.038).        
 – K. Tang, A. Rajeh, K.S. Shaw, N. Nguyen, **G. Wan**, K.B. Hashemi, R.L. Castillo, S.G. Kwatra, N.R. LeBoeuf, R.A. Vleugels, Y.R. Semenov. De novo autoimmune connective tissue disease and mortality in patients treated with anti-programmed death receptor-1 and anti-programmed death-ligand 1 therapy: a population-level cohort study. British Journal of Dermatology, 2024. [Paper](https://doi.org/10.1093/bjd/ljae184).       
