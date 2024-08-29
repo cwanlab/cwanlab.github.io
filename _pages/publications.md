@@ -4,13 +4,11 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-<span style="font-size:0.87em;"> 
-  <div class="wordwrap">You can find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-</span>  
-{% endif %}
-
 <span style="font-size:0.87em;">  
+
+<span style="color:cyan;">**Multi-organ immune-related adverse events from immune checkpoint inhibitors and their downstream implications: a retrospective multicohort study.**</span>  
+**The Lancet Oncology**, 2024. [Paper](https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(24)00278-X/abstract)
+
 <!--  -->
 **G. Wan**, W. Chen, S. Khattab, et al. Multi-organ immune-related adverse events from immune checkpoint inhibitors and their downstream implications: a retrospective multicohort study. **The Lancet Oncology**, 2024. [Paper](https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(24)00278-X/abstract)    
 **G. Wan**, Baokun He, Haim Schweitzer. The art of centering without centering for robust principal component analysis. Data Mining and Knowledge Discovery, 2024. [Paper](https://personal.utdallas.edu/~haim/publications/biastrick.pdf)     
@@ -39,3 +37,7 @@ Q. Wang, F. Liu, **G. Wan**, Y. Chen. Inference of brain states under anesthesia
 **G. Wan**, H. Schweitzer. A lookahead algorithm for robust subspace recovery. ICDM, 2021. [Paper](https://ieeexplore.ieee.org/abstract/document/9679069)    
 **G. Wan**, C. Maung, C. Zhang, H. Schweitzer. Fast distance metrics in low-dimensional space for neighbor search problems. ICDM, 2020. [Paper](https://ieeexplore.ieee.org/abstract/document/9338319)
 </span>   
+
+{% if site.author.googlescholar %}
+  <div class="wordwrap">You can find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div> 
+{% endif %}
