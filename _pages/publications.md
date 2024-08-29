@@ -4,11 +4,13 @@ permalink: /publications/
 author_profile: true
 ---
 
+
+<span style="font-size:0.87em; color:#29AB87">Multi-organ immune-related adverse events from immune checkpoint inhibitors and their downstream implications: a retrospective multicohort study.</span>  
+<span style="font-size:0.87em;">**Guihong Wan**, Wenxin Chen, Sara Khattab, Katie Roster, Nga Nguyen, Boshen Yan, Ahmad Rajeh, Jayhyun Seo, Hannah Rashdan, Leyre Zubiri, Matthew J Hadfield, Shadmehr Demehri, Kun-Hsing Yu, William Lotter, Alexander Gusev, Nicole R LeBoeuf, Kerry L Reynolds, Shawn G Kwatra, Yevgeniy R Semenov</span> 
+<span style="font-size:0.87em;">**The Lancet Oncology**, 2024. [Paper](https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(24)00278-X/abstract)
+</span>
+
 <span style="font-size:0.87em;">  
-
-<span style="color:cyan;">**Multi-organ immune-related adverse events from immune checkpoint inhibitors and their downstream implications: a retrospective multicohort study.**</span>  
-**The Lancet Oncology**, 2024. [Paper](https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(24)00278-X/abstract)
-
 <!--  -->
 **G. Wan**, W. Chen, S. Khattab, et al. Multi-organ immune-related adverse events from immune checkpoint inhibitors and their downstream implications: a retrospective multicohort study. **The Lancet Oncology**, 2024. [Paper](https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(24)00278-X/abstract)    
 **G. Wan**, Baokun He, Haim Schweitzer. The art of centering without centering for robust principal component analysis. Data Mining and Knowledge Discovery, 2024. [Paper](https://personal.utdallas.edu/~haim/publications/biastrick.pdf)     
