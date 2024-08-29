@@ -6,10 +6,7 @@ author_profile: true
 <span style="font-size:1em;">Artificial Intelligence in Medicine</span>
 <span style="font-size:0.87em;">  
 <!--  -->
-– **Multi-organ immune-related adverse events from immune checkpoint inhibitors and their downstream implications: a retrospective multicohort study.**<br>
-**G. Wan**, W. Chen, S. Khattab, K. Roster, N. Nguyen, B. Yan, A. Rajeh, J. Seo, H. Rashdan, L. Zubiri, M.J. Hadfield, S. Demehri, K.H. Yu, W. Lotter, A. Gusev, N.R. LeBoeuf, K.L. Reynolds, S.G. Kwatra, Y.R. Semenov.<br>
-**The Lancet Oncology**, 2024. 
-[Paper](https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(24)00278-X/abstract)
+– **G. Wan**, W. Chen, S. Khattab, K. Roster, N. Nguyen, B. Yan, A. Rajeh, J. Seo, H. Rashdan, L. Zubiri, M.J. Hadfield, S. Demehri, K.H. Yu, W. Lotter, A. Gusev, N.R. LeBoeuf, K.L. Reynolds, S.G. Kwatra, Y.R. Semenov. Multi-organ immune-related adverse events from immune checkpoint inhibitors and their downstream implications: a retrospective multicohort study. **The Lancet Oncology**, 2024. [Paper](https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(24)00278-X/abstract)
 <!--  -->
 – **G. Wan**, Baokun He, Haim Schweitzer. The art of centering without centering for robust principal component analysis. Data Mining and Knowledge Discovery, 2024. [Paper](https://personal.utdallas.edu/~haim/publications/biastrick.pdf)     
 – **G. Wan**, Z. Maliga, B. Yan, et al. SpatialCells: automated profiling of tumor microenvironments with spatially resolved multiplexed single-cell data. Briefings in Bioinformatics, 2024. [Paper](https://academic.oup.com/bib/article/25/3/bbae189/7663435)     
