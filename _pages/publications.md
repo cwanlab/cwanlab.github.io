@@ -7,10 +7,11 @@ author_profile: true
 {% if site.author.googlescholar %}
   <div class="wordwrap">You can find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
-  
+ 
 
-<span style="font-size:0.87em;">   
+<span style="font-size:0.87em;">  
 
+**G. Wan**, W. Chen, S. Khattab, et al. Multi-organ immune-related adverse events from immune checkpoint inhibitors and their downstream implications: a retrospective multicohort study. The Lancet Oncology, 2024. [Paper](https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(24)00278-X/abstract)    
 **G. Wan**, Baokun He, Haim Schweitzer. The art of centering without centering for robust principal component analysis. Data Mining and Knowledge Discovery, 2024. [Paper](https://personal.utdallas.edu/~haim/publications/biastrick.pdf)     
 **G. Wan**, Z. Maliga, B. Yan, et al. SpatialCells: automated profiling of tumor microenvironments with spatially resolved multiplexed single-cell data. Briefings in Bioinformatics, 2024. [Paper](https://academic.oup.com/bib/article/25/3/bbae189/7663435)     
 **G. Wan**, S. Khattab, B. Leung, et al. Cancer type and histology influence cutaneous immunotherapy toxicities: a multi-institutional cohort study. British Journal of Dermatology, 2024. [Paper](https://academic.oup.com/bjd/advance-article-abstract/doi/10.1093/bjd/ljae053/7608988)    
