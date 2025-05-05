@@ -8,6 +8,11 @@ redirect_from:
 
 {% include base_path %}
 
+**Academic Faculty Position**    
+<span style="font-size:0.87em;">
+Instructor in the Department of Dermatology, Massachusetts General Hospital and Harvard Medical School, 2024 – Current
+</span>
+
 **Education**    
 <span style="font-size:0.87em;">
 Ph.D., Computer Science, University of Texas at Dallas, 2021    
@@ -18,11 +23,6 @@ M.S., Computational Biology and Quantitative Genetics, Harvard University, 2027 
 **Postdoctoral Training**    
 <span style="font-size:0.87em;">
 Machine Learning in Healthcare; Biomedical Informatics, Massachusetts General Hospital, Harvard Medical School, 2021 – 2024
-</span>
-  
-**Academic Faculty Position**    
-<span style="font-size:0.87em;">
-Instructor in the Department of Dermatology, Massachusetts General Hospital and Harvard Medical School, 2024 – Current
 </span>
 
 **Awards and Honors**    
