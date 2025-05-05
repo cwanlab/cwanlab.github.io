@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Guihong WAN"
+title                    : "常万实验室 · CWan Lab"
 title_separator          : "-"
-name                     : &name "Guihong WAN"
+name                     : &name "CWan Lab"
 description              : &description "Machine Learning"
 url                      : https://cwanlab.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
