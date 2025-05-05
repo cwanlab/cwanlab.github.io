@@ -8,6 +8,11 @@ redirect_from:
 
 {% include base_path %}
 
+**Students**      
+<span style="font-size:0.87em;">
+– Ninghui Hao, 2024, Master of Biomedical Informatics student at Harvard Medical School     
+</span>  
+
 **Mentors and Collaborators**  
 <span style="font-size:0.87em;">
 – Yevgeniy R. Semenov, MD, Dermatologist and Assistant Professor at Massachusetts General Hospital and Harvard Medical School        
@@ -20,11 +25,6 @@ redirect_from:
 – Mia S. DeSimone, MD, Dermatopathologist, Department of Pathology at Brigham and Women’s Hospital and Harvard Medical School        
 <!-- – Nga Nguyen, MD, MPH, Radiation Oncology Resident, Atrium Health Wake Forest Baptist   -->
 – Haim Schweitzer, PhD, Professor of Computer Science, University of Texas at Dallas    
-</span>  
-
-**Students**      
-<span style="font-size:0.87em;">
-– Ninghui Hao, 2024, Master of Biomedical Informatics student at Harvard Medical School     
 </span>    
 
 **Alumni**     
