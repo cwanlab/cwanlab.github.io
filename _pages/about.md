@@ -11,8 +11,9 @@ Prior to that, I was a postdoctoral researcher at Harvard Medical School and Mas
 I received my PhD degree in Computer Science from the University of Texas at Dallas in 2021, 
 where I was fortunate to be advised by Dr. Haim Schweitzer.</span>           
  -->
-<span style="font-size:0.87em;">
-Our research focuses on the development of computational methodologies for multimodal analyses and explainable machine learning models of biomedical data, which will enable personalized medicine.</span>     
+<span style="font-size:0.97em;">
+Our research focuses on the development of computational methodologies for multimodal analyses and explainable machine learning models of biomedical data, which will enable personalized medicine.
+</span>     
 
 <!-- <span style="color:blue">I am seeking a tenure-track assistant professor position.</span>  -->
 
