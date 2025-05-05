@@ -5,7 +5,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<span style="font-size:0.87em;">
+<!-- <span style="font-size:0.87em;"> -->
 <!-- I am a Computer Scientist and an Instructor at Harvard Medical School and Massachusetts General Hospital, working with the Semenov group.
 Prior to that, I was a postdoctoral researcher at Harvard Medical School and Massachusetts General Hospital. 
 I received my PhD degree in Computer Science from the University of Texas at Dallas in 2021, 
@@ -18,7 +18,8 @@ Our research focuses on the development of computational methodologies for multi
 <!-- <span style="color:blue">I am seeking a tenure-track assistant professor position.</span>  -->
 
 
-<span style="color:blue">*News*</span>    
+<span style="color:blue">*News*</span>   
+<!--  -->
 **2025**         
 <span style="font-size:0.78em;">
 – 4/29/2025: Our paper "FADE: Towards Fairness-aware Data Generation for Domain Generalization via Classifier-Guided Score-based Diffusion Models" was accepted by IJCAI 2025.      
