@@ -16,9 +16,9 @@ redirect_from:
 – Kun-Hsing Yu, MD, PhD, Assistant Professor at Harvard Medical School      
 – Shawn G. Kwatra, MD, Joseph W. Burnett Professor and Chairman of Dermatology, University of Maryland School of Medicine       
 – Alex K. Shalek, PhD, Associate Professor at Massachusetts Institute of Technology      
-– Christine G. Lian, MD, Dermatopathologist in the Department of Pathology at Brigham and Women’s Hospital and Harvard Medical School              
-– Mia S. DeSimone, MD, Dermatopathologist in the Department of Pathology at Brigham and Women’s Hospital and Harvard Medical School        
-– Nga Nguyen, MD, MPH, Radiation Oncology Resident, Atrium Health Wake Forest Baptist     
+– Christine G. Lian, MD, Dermatopathologist, Department of Pathology at Brigham and Women’s Hospital and Harvard Medical School              
+– Mia S. DeSimone, MD, Dermatopathologist, Department of Pathology at Brigham and Women’s Hospital and Harvard Medical School        
+<!-- – Nga Nguyen, MD, MPH, Radiation Oncology Resident, Atrium Health Wake Forest Baptist   -->
 – Haim Schweitzer, PhD, Professor of Computer Science, University of Texas at Dallas    
 </span>  
 
