@@ -11,7 +11,7 @@ redirect_from:
 <!-- **Talks**     -->
 <span style="font-size:0.87em;">
 – Biologically Explainable Artificial Intelligence for Precision Medicine, Special Seminar, University of Pennsylvania, PA, 2025. 
-[Paper](https://events.med.upenn.edu/dbei/event/783950-dbei-special-seminar-division-of-informatics)         
+[Lin](https://events.med.upenn.edu/dbei/event/783950-dbei-special-seminar-division-of-informatics)         
 – Introduction to Neural Networks on Graphs. Guest Lecture, Stevens Institute of Technology, NJ, 2022.       
 – Individualized Primary Melanoma Risk Prediction, SID Annual Meeting, Dallas, TX, 2024.     
 – Anytime Combinatorial Search for Matrix Sparse Representation, Best Paper Finalist, INFORMS Workshop on Data Mining and Decision Analytics, Indianapolis, IN, 2022.        
