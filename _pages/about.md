@@ -6,15 +6,15 @@ redirect_from:
   - /about.html
 ---
 <span style="font-size:0.87em;">
-I am a Computer Scientist and an Instructor at Harvard Medical School and Massachusetts General Hospital, working with the Semenov group.
+<!-- I am a Computer Scientist and an Instructor at Harvard Medical School and Massachusetts General Hospital, working with the Semenov group.
 Prior to that, I was a postdoctoral researcher at Harvard Medical School and Massachusetts General Hospital. 
 I received my PhD degree in Computer Science from the University of Texas at Dallas in 2021, 
 where I was fortunate to be advised by Dr. Haim Schweitzer.</span>           
-
+ -->
 <span style="font-size:0.87em;">
-My research focuses on the development of computational methodologies for multimodal analyses and explainable machine learning models of biomedical data, which will enable personalized medicine.</span>     
+Our research focuses on the development of computational methodologies for multimodal analyses and explainable machine learning models of biomedical data, which will enable personalized medicine.</span>     
 
-<span style="color:blue">I am seeking a tenure-track assistant professor position.</span> 
+<!-- <span style="color:blue">I am seeking a tenure-track assistant professor position.</span>  -->
 
 
 <span style="color:blue">*News*</span>    

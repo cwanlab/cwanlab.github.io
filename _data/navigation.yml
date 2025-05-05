@@ -1,6 +1,6 @@
 # main links links
 main:
-  - title: "About"
+  - title: "Home"
     url: https://cwanlab.github.io   
 
   - title: "Publications"
@@ -11,9 +11,9 @@ main:
 
   - title: "Talks"
     url: /talks/ 
-        
-  - title: "Experience"
-    url: /cv/
     
   - title: "Group"
     url: /group/
+
+  - title: "About PI"
+    url: /cv/
