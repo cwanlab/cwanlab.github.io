@@ -5,12 +5,12 @@ main:
 
   - title: "Publications"
     url: /publications/       
-    
+
+  - title: "Teaching\&Talks"
+    url: /talks/ 
+
   - title: "Funding"
     url: /funding/
-
-  - title: "Talks"
-    url: /talks/ 
     
   - title: "Group"
     url: /group/
