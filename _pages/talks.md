@@ -12,7 +12,7 @@ redirect_from:
 <span style="font-size:0.87em;">
 <!-- – Data analysis course. StatStart, a computational program for high school students,     -->
 – Biologically Explainable Artificial Intelligence for Precision Medicine, Special Seminar, University of Pennsylvania, 2025. 
-[Paper](https://events.med.upenn.edu/dbei/event/783950-dbei-special-seminar-division-of-informatics)
+[Paper](https://events.med.upenn.edu/dbei/event/783950-dbei-special-seminar-division-of-informatics)         
 – Introduction to Neural Networks on Graphs. Guest Lecture, Stevens Institute of Technology, 2022.
 </span>
 
