@@ -26,6 +26,7 @@ Our research focuses on the development of computational methodologies for multi
 </span> 
 **2024**         
 <span style="font-size:0.78em;">
+– 10/30/2024: Our work "Multi-View Unsupervised Column Subset Selection via Combinatorial Search" was accepted by AAAI 2025 Student Abstract Program.        
 – 5/13/2024: Our paper "Multi-organ toxicities from immune checkpoint blockade and their downstream implications: a retrospective multi-cohort study" was accepted by **The Lancet Oncology**! [Paper](https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(24)00278-X/abstract) [Press](https://www.massgeneral.org/news/research-spotlight/patterns-prognostications-immune-related-adverse-events)       
 – 4/2/2024: Our paper "SpatialCells: automated profiling of tumor microenvironments with spatially resolved multiplexed single-cell data" was accepted by Briefings in Bioinformatics! [Paper](https://academic.oup.com/bib/article/25/3/bbae189/7663435) [Code](https://semenovlab.github.io/SpatialCells/)        
 – 2/23/2024: Our study "Individualized melanoma risk prediction using machine learning with electronic health records" was accepted for Oral Presentation at 2024 SID Annual Meeting.          
