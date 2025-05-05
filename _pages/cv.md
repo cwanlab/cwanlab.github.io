@@ -11,7 +11,7 @@ redirect_from:
 **Education**    
 <span style="font-size:0.87em;">
 Ph.D., Computer Science, University of Texas at Dallas, 2021    
-<!-- M.S., Computer Science, University of Texas at Dallas, 2021     -->
+M.S., Computer Science, University of Texas at Dallas, 2021    
 M.S., Computational Biology and Quantitative Genetics, Harvard University, 2027 (expected)
 </span>      
 
