@@ -18,6 +18,12 @@ Our research focuses on the development of computational methodologies for multi
 
 
 <span style="color:blue">*News*</span>    
+**2025**         
+<span style="font-size:0.78em;">
+– 4/29/2025: Our paper "FADE: Towards Fairness-aware Data Generation for Domain Generalization via Classifier-Guided Score-based Diffusion Models" was accepted by IJCAI 2025.      
+– 4/23/2025: Our paper "Long-term mortality outcomes among immunotherapy recipients treated with dupilumab for the management of cutaneous immune-related adverse events" was accepted by Journal for ImmunoTherapy of Cancer.     
+– 2/21/2025: Our study "Survival implications of systemic immunosuppression timing, dosage, and duration in immune checkpoint inhibitor therapy: A retrospective multicohort study" was accepted for Oral Presentation at 2025 SID Annual Meeting.        
+</span> 
 **2024**         
 <span style="font-size:0.78em;">
 – 5/13/2024: Our paper "Multi-organ toxicities from immune checkpoint blockade and their downstream implications: a retrospective multi-cohort study" was accepted by **The Lancet Oncology**! [Paper](https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(24)00278-X/abstract) [Press](https://www.massgeneral.org/news/research-spotlight/patterns-prognostications-immune-related-adverse-events)       
