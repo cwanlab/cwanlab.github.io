@@ -21,9 +21,10 @@ Our research focuses on the development of computational methodologies for multi
 **2025**         
 <span style="font-size:0.78em;">
 – 4/29/2025: Our paper "FADE: Towards Fairness-aware Data Generation for Domain Generalization via Classifier-Guided Score-based Diffusion Models" was accepted by IJCAI 2025.      
-– 4/23/2025: Our paper "Long-term mortality outcomes among immunotherapy recipients treated with dupilumab for the management of cutaneous immune-related adverse events" was accepted by Journal for ImmunoTherapy of Cancer.     
+– 4/23/2025: Our paper "Long-term mortality outcomes among immunotherapy recipients treated with dupilumab for the management of cutaneous immune-related adverse events" was accepted by the Journal for ImmunoTherapy of Cancer.     
 – 2/21/2025: Our study "Survival implications of systemic immunosuppression timing, dosage, and duration in immune checkpoint inhibitor therapy: A retrospective multicohort study" was accepted for Oral Presentation at 2025 SID Annual Meeting.        
 </span> 
+
 **2024**         
 <span style="font-size:0.78em;">
 – 10/30/2024: Our work "Multi-View Unsupervised Column Subset Selection via Combinatorial Search" was accepted by AAAI 2025 Student Abstract Program.        
@@ -35,7 +36,8 @@ Our research focuses on the development of computational methodologies for multi
 – 2/2/2024: Our paper "Cancer Type and Histology Influence Cutaneous Immunotherapy Toxicities: A Multi-Institutional Cohort Study" was accepted by British Journal of Dermatology! [Paper](https://academic.oup.com/bjd/advance-article-abstract/doi/10.1093/bjd/ljae053/7608988)    
 – 2/1/2024: Our paper "Identification of breast cancer subtypes based on graph convolutional network" has been published by Journal of Biomedical Engineering!    
 – 2/1/2024: Dr. Wan has been promoted as **Instructor at Harvard Medical School**!    
-</span>      
+</span>
+
 **2023**    
 <span style="font-size:0.78em;">
 – 11/14/2023: Our paper "Spectral Pursuit for Simultaneous Sparse Representation with Accuracy Guarantees" was accepted by International Journal of Data Science and Analytics! [Paper](https://link.springer.com/article/10.1007/s41060-023-00480-y)    
@@ -49,7 +51,8 @@ Our research focuses on the development of computational methodologies for multi
 – 3/9/2023: Dr. Wan got acceptance into the M.S. program in Computational Biology and Quantitative Genetics at Harvard T.H. Chan School of Public Health.    
 – 2/3/2023: Our paper "Increased Risk of Cutaneous Immune-Related Adverse Events in Patients Treated with Talimogene Laherparepvec and Immune Checkpoint Inhibitors: A Multi-institutional Cohort Study" was accepted for publication in Journal of the American Academy of Dermatology! [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0190962223002682)       
 – 2/2/2023: Our paper "Influence of melanoma type on incidence and downstream implications of cutaneous immune-related adverse events in the setting of immune checkpoint inhibitor therapy" was accepted for publication in Journal of the American Academy of Dermatology! [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0190962223002049)          
-</span>      
+</span>
+
 **2022**    
 <span style="font-size:0.78em;">
 – 12/19/2022: Dr. Wan received **the MGH Fund for Medical Discovery (FMD) Clinical Research Fellowship Award**!     
@@ -62,4 +65,4 @@ was accepted for publication in npj Precision Oncology! [Paper](https://www.natu
 – 9/11/2022: Our study "Anytime Combinatorial Search for Matrix Sparse Representation" was selected as the Best Paper Finalist in the theoretical track for the 17th INFORMS Workshop on Data Mining and Decision Analytics.     
 – 8/29/2022:  Our paper "Germline variants associated with toxicity to immune checkpoint blockade" was accepted for publication by Nature Medicine!      
 – 7/15/2022:  Dr. Wan received **the 2022 Dermatology Fellowship Award from Melanoma Research Alliance**!      
-</span> 
+</span>
