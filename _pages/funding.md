@@ -8,7 +8,7 @@ redirect_from:
 
 {% include base_path %}
 
-**National Cancer Institute, K99/R00 Pathway to Independence Award**      
+**NIH National Cancer Institute, K99/R00 Career Development Award**      
 <span style="font-size:0.87em;">
 – Project: Explainable Artificial Intelligence for Melanoma Recurrence Prediction via Integrative Modeling of
 Multiplexed Imaging with Transcriptomics and Histopathology [Details](https://reporter.nih.gov/search/HLO5t0xrqkuGwnjOVLLshQ/project-details/10796370)    
