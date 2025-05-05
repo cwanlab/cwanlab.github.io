@@ -8,7 +8,7 @@ redirect_from:
 
 {% include base_path %}
 
-<!-- **Talks**     -->
+**Talks**    
 <span style="font-size:0.87em;">
 – Biologically Explainable Artificial Intelligence for Precision Medicine, Special Seminar, University of Pennsylvania, PA, 2025. 
 [Link](https://events.med.upenn.edu/dbei/event/783950-dbei-special-seminar-division-of-informatics)         
