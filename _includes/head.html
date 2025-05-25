@@ -4,6 +4,12 @@
 
 {% include seo.html %}
 
+<title>{% if page.title %}{{ page.title }} | {% endif %}CWan Lab – AI/ML & Spatial Biology</title>
+<meta name="description" content="CWan Lab develops AI/ML methods for spatial biology and precision oncology at Harvard.">
+<meta name="keywords" content="CWan Lab, artificial intelligence, machine learning, spatial biology, precision medicine, oncology, Harvard">
+<meta name="author" content="Dr. Guihong Wan">
+
+
 <link href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}" type="application/atom+xml" rel="alternate" title="{{ site.title }} Feed">
 
 <!-- http://t.co/dKP3o1e -->
