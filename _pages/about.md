@@ -19,8 +19,10 @@ where I was fortunate to be advised by Dr. Haim Schweitzer.</span>
 
 <!-- Our research focuses on the development of computational methodologies for multimodal analyses and explainable machine learning models of biomedical data, which will enable personalized medicine. -->
 <span style="font-size:0.78em;">
-At CWan Lab (pronounced "Wan Lab"), we advance the foundations of artificial intelligence and machine learning to address key challenges in biomedicine, with a focus on spatially resolved biological data. Our work bridges algorithmic innovation and real-world application, developing models that are both biologically grounded and clinically impactful. We aim to build scalable, generalizable algorithms that uncover disease mechanisms and enable personalized medicine.
-</span>     
+At CWan Lab (pronounced "Wan Lab"), we advance the foundations of artificial intelligence and machine learning to address key challenges in biomedicine, with a focus on spatially resolved biological data. Our work bridges algorithmic innovation and real-world application, developing biologically grounded and clinically impactful models that uncover disease mechanisms and drive personalized medicine.
+</span>  
+
+<span style="color:blue">We are actively recruiting postdoctoral researchers, graduate students, and data scientists with expertise in artificial intelligence, machine learning, and spatial biology, particularly as applied to cancer and precsion medicine.</span>   
 
 
 <span style="color:blue">*Research Themes*</span>
@@ -29,19 +31,16 @@ At CWan Lab (pronounced "Wan Lab"), we advance the foundations of artificial int
 – Graph Neural Networks and Biomedical Knowledge Graphs      
 — Self-Supervised and Contrastive Representation Learning     
 — Large Language and Vision Models (LLMs and LVMs) for Biomedical Applications     
-
 [2] Computational Geometry and Spatial Biology   
 — Geometric Algorithms for Modeling Tissue Microenvironments and Cell-Cell Interactions       
 — Single-Cell Spatial Analysis and High-Resolution Omics Integration      
 — 3D Spatial Modeling Methods for Tissue and Cellular Structures    
-
 [3] Multimodal Integration and Clinical Decision Support      
 — Integrative Methods for Combining EHRs, Histopathology, and Spatial Multi-Omics     
 — Predictive modeling for Treatment Response and  Disease Progression     
-— Real-Time Clinical Decision Support under Uncertainty         
+— Real-Time Clinical Decision Support under Uncertainty
 </span>
 
-<span style="color:blue">We are actively recruiting postdoctoral researchers, graduate students, and data scientists with expertise in artificial intelligence, machine learning, and spatial biology, particularly as applied to cancer and precsion medicine.</span> 
 
 
 <span style="color:blue">*News*</span>   
