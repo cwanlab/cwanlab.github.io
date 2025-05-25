@@ -32,9 +32,11 @@ Multi-organ immune-related adverse events from immune checkpoint inhibitors and 
 – **G. Wan**, C. Maung, C. Zhang, H. Schweitzer. Fast distance metrics in low-dimensional space for neighbor search problems. ICDM, 2020. [Paper](https://ieeexplore.ieee.org/abstract/document/9338319)      
 </span>
 
+
 <!-- divider -->
 <span style="font-size:1em;">Clinical Informatics and Genetics</span>      
-<span style="font-size:0.87em;">           
+<span style="font-size:0.87em;">     
+– S. Khattab\*, **G. Wan**\*, et al. Long-term mortality outcomes among immunotherapy recipients treated with dupilumab for the management of cutaneous immune-related adverse events. Journal for ImmunoTherapy of Cancer, 2025. [Paper](https://jitc.bmj.com/content/13/5/e010638)        
 – **G. Wan**, S. Khattab, B. Leung, et al. Cancer type and histology influence cutaneous immunotherapy toxicities: a multi-institutional cohort study. British Journal of Dermatology, 2024. [Paper](https://academic.oup.com/bjd/advance-article-abstract/doi/10.1093/bjd/ljae053/7608988)    
 – C. Vasavda\*, **G. Wan**\*, et al. A polygenic risk score for predicting racial and genetic susceptibility to prurigo nodularis. Journal of Investigative Dermatology, 2023. (\*Equal contribution) [Paper](https://www.sciencedirect.com/science/article/pii/S0022202X23021255)     
 – H. Rashdan, S. Zhang, **G. Wan**, N. Nguyen, K. Roster, A. Rajeh, K. Tang, W. Chen, C. Moseley, S. Chen, N. LeBoeuf, Y.R. Semenov. Timing of cutaneous immune-related adverse events impacts survival in patients with cancer treated with immune-checkpoint inhibitors: A multi-institutional cohort study. Journal of the American Academy of Dermatology, 2024. [Paper](https://doi.org/10.1016/j.jaad.2024.01.038).<br>
