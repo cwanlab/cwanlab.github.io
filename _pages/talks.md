@@ -11,7 +11,7 @@ redirect_from:
 **Teaching**     
 <span style="font-size:0.87em;">  
 **Course**: AI in Precision Medicine: Graphs, Images, and Omics (Planned)   
-**Potential students**: Graduate students in Computer Science, Data Science, Bioinformatics, Computational Biology.    
+**Target students**: Graduate students in Computer Science, Data Science, Bioinformatics, Computational Biology.    
 – Module 1: Introduction to Spatial Biology       
 Overview of cellular biology and tumor ecosystem; spatial biology technologies, such as spatial transcriptomics and spatial proteomics.               
 – Module 2: Statistical Approaches       
