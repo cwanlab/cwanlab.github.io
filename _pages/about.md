@@ -17,16 +17,15 @@ where I was fortunate to be advised by Dr. Haim Schweitzer.</span>
 <!-- at the University of Chicago -->
 </span> 
 
-<span style="font-size:0.97em;">
 <!-- Our research focuses on the development of computational methodologies for multimodal analyses and explainable machine learning models of biomedical data, which will enable personalized medicine. -->
-
-At CWan Lab (pronounced “Wan Lab”), we advance the foundations of artificial intelligence and machine learning to address key challenges in biomedicine, with a focus on spatially resolved biological data. Our research bridges algorithmic innovation and real-world application, developing models that are both biologically grounded and clinically impactful. We aim to build scalable, generalizable algorithms that uncover disease mechanisms and enable personalized medicine.
+<span style="font-size:0.78em;">
+At CWan Lab (pronounced "Wan Lab"), we advance the foundations of artificial intelligence and machine learning to address key challenges in biomedicine, with a focus on spatially resolved biological data. Our work bridges algorithmic innovation and real-world application, developing models that are both biologically grounded and clinically impactful. We aim to build scalable, generalizable algorithms that uncover disease mechanisms and enable personalized medicine.
 </span>     
 
 
-<span style="color:blue">*Research Themes*</span>   
-
-[1] Graph and Deep Learning for Biomedical Data
+<span style="color:blue">*Research Themes*</span>
+<span style="font-size:0.78em;">
+[1] Graph and Deep Learning for Biomedical Data      
 – Graph Neural Networks and Biomedical Knowledge Graphs      
 — Self-Supervised and Contrastive Representation Learning     
 — Large Language and Vision Models (LLMs and LVMs) for Biomedical Applications     
@@ -40,9 +39,9 @@ At CWan Lab (pronounced “Wan Lab”), we advance the foundations of artificial
 — Integrative Methods for Combining EHRs, Histopathology, and Spatial Multi-Omics     
 — Predictive modeling for Treatment Response and  Disease Progression     
 — Real-Time Clinical Decision Support under Uncertainty         
+</span>
 
-
-<span style="color:blue">We are actively recruiting postdoctoral researchers, graduate students, and data scientists with expertise in artificial intelligence, machine learning, and spatial biology, particularly as applied to cancer and precsion medicine. If you're passionate about developing and applying cutting-edge AI/ML methods to address real-world challenges in precision health—or if you bring innovative ideas that align with or expand upon our research areas—we want to hear from you. We value techinical excellence, creative thinking, and interdisciplinary collaboration in transforming biomedical research..</span> 
+<span style="color:blue">We are actively recruiting postdoctoral researchers, graduate students, and data scientists with expertise in artificial intelligence, machine learning, and spatial biology, particularly as applied to cancer and precsion medicine.</span> 
 
 
 <span style="color:blue">*News*</span>   
