@@ -8,8 +8,9 @@ redirect_from:
 
 {% include base_path %}
 
-**Teaching**
-AI in Precision Medicine: Graphs, Images, and Omics (Planned)         
+**Teaching**             
+**Course**: AI in Precision Medicine: Graphs, Images, and Omics (Planned)     
+<span style="font-size:0.87em;">    
 **Potential students**: Graduate students in Computer Science, Data Science, Bioinformatics, Computational Biology.    
 – Module 1: Introduction to Spatial Biology       
 Overview of cellular biology, tumor microenvironments, and key technologies in spatial biology, such as spatial transcriptomics and spatial proteomics.               
@@ -21,7 +22,7 @@ Key concepts in graph neural networks, contrastive learning, vision transformers
 Foundation models in digtial pathology; integration of omics, imaging, and clinical records; methods for cross-modal representation learning and alignment; guided paper discussions.        
 – Module 5: Software Tools and Platforms 
 Hands-on tutorials with tools like Scanpy, Squidpy, PyTorch Geometric, SCIMAP, and SpatialCells; emphasis on practical coding and data analysis workflows.
-
+</span>
 
 **Talks**    
 <span style="font-size:0.87em;">
