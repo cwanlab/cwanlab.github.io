@@ -8,7 +8,7 @@ redirect_from:
 
 {% include base_path %}
 
-**Teaching**                 
+**Teaching**     
 <span style="font-size:0.87em;">  
 **Course**: AI in Precision Medicine: Graphs, Images, and Omics (Planned)   
 **Potential students**: Graduate students in Computer Science, Data Science, Bioinformatics, Computational Biology.    
