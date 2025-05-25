@@ -25,8 +25,8 @@ At CWan Lab (pronounced "Wan Lab"), we advance the foundations of artificial int
 <span style="color:blue">We are actively recruiting postdoctoral researchers, graduate students, and data scientists with expertise in artificial intelligence, machine learning, and spatial biology, particularly as applied to cancer and precsion medicine.</span>   
 
 
-<span style="color:blue">*Research Themes*</span>
-<span style="font-size:0.78em;">
+<span style="color:black">**Research Themes**</span>
+<span style="font-size:0.78em;">              
 [1] Graph and Deep Learning for Biomedical Data      
 – Graph Neural Networks and Biomedical Knowledge Graphs      
 — Self-Supervised and Contrastive Representation Learning     
