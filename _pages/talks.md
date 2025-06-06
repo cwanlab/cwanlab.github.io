@@ -29,9 +29,9 @@ Hands-on tutorials with tools like Scanpy, Squidpy, PyTorch Geometric, SCIMAP, a
 – Computational Pathology Foundation Models: Datasets, Adaptation Strategies, and Evaluations     
 </span>
 <span style="font-size:0.78em;">
-- Dong Li, Chen Zhao, **Guihong Wan**, Xintao Wu, Yevgeniy Semenov.
-  The International Joint Conference on Artificial Intelligence (IJCAI), Canada, August 16th, 2025.
-- Dong Li, Chen Zhao, **Guihong Wan**, Xintao Wu, Yevgenly Semenov.
+&nbsp;&nbsp;&nbsp;&nbsp;Dong Li, Chen Zhao, **Guihong Wan**, Xintao Wu, Yevgeniy Semenov.
+  The International Joint Conference on Artificial Intelligence (IJCAI), Canada, August 16th, 2025.          
+&nbsp;&nbsp;&nbsp;&nbsp;Dong Li, Chen Zhao, **Guihong Wan**, Xintao Wu, Yevgenly Semenov.
   The Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD), Australia, June 10th, 2025.
 </span>
 
