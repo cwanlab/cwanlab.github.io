@@ -20,7 +20,7 @@ author_profile: true
 – Real-Time Clinical Decision Support under Uncertainty
 </span>
 
-<span style="color:black">**Publications**</span>
+<span style="color:black">**Publications**</span>       
 <span style="font-size:0.87em;">Artificial Intelligence in Medicine</span>
 <span style="font-size:0.78em;">     
 – **G. Wan**, W. Chen, S. Khattab, K. Roster, N. Nguyen, B. Yan, A. Rajeh, J. Seo, H. Rashdan, L. Zubiri, M. J. Hadfield, S. Demehri, K-H Yu, W. Lotter, A. Gusev, N. R. LeBoeuf, K. L. Reynolds, S. G. Kwatra, Y. R. Semenov. 
