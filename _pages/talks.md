@@ -32,7 +32,7 @@ Hands-on tutorials with tools like Scanpy, Squidpy, PyTorch Geometric, SCIMAP, a
 &nbsp;&nbsp;&nbsp;&nbsp;Dong Li, Chen Zhao, **Guihong Wan**, Xintao Wu, Yevgeniy Semenov.
   The International Joint Conference on Artificial Intelligence (IJCAI), 2025.          
 &nbsp;&nbsp;&nbsp;&nbsp;Dong Li, Chen Zhao, **Guihong Wan**, Xintao Wu, Yevgenly Semenov.
-  The Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD), 2025.
+  The Pacific-Asia Conference on Knowledge Discovery and Data Mining, 2025.
 </span>
 
 **Invited Talks**    
