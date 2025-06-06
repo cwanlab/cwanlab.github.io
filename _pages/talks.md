@@ -25,15 +25,17 @@ Hands-on tutorials with tools like Scanpy, Squidpy, PyTorch Geometric, SCIMAP, a
 </span>
 
 **Conference Tutorials**
-Computational Pathology Foundation Models: Datasets, Adaptation Strategies, and Evaluations
+Computational Pathology Foundation Models: Datasets, Adaptation Strategies, and Evaluations          
+<span style="font-size:0.87em;">
 - Dong Li, Chen Zhao, **Guihong Wan**, Xintao Wu, Yevgeniy Semenov.
   The International Joint Conference on Artificial Intelligence (IJCAI), Canada, August 16th, 2025.
 - Dong Li, Chen Zhao, **Guihong Wan**, Xintao Wu, Yevgenly Semenov.
   The Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD), Australia, June 10th, 2025.
+</span>
 
 **Invited Talks**    
 <span style="font-size:0.87em;">
-– Biologically Explainable Artificial Intelligence for Precision Oncology (Remotely), Seminar in Oncology, Universitair Ziekenhuis Brussel, 2025. 
+– Biologically Explainable AI for Precision Oncology (Remotely), Seminar in Oncology, Universitair Ziekenhuis Brussel, 2025.            
 – Biologically Explainable Artificial Intelligence for Precision Medicine, Seminar, University of Pennsylvania, PA, 2025. 
 [Link](https://events.med.upenn.edu/dbei/event/783950-dbei-special-seminar-division-of-informatics)         
 – Individualized Primary Melanoma Risk Prediction, SID Annual Meeting, Dallas, TX, 2024.     
