@@ -24,9 +24,11 @@ Foundation models in digital pathology; integration of omics, imaging, and clini
 Hands-on tutorials with tools like Scanpy, Squidpy, PyTorch Geometric, SCIMAP, and SpatialCells; emphasis on practical coding and data analysis workflows.
 </span>
 
-**Conference Tutorials**
-Computational Pathology Foundation Models: Datasets, Adaptation Strategies, and Evaluations          
+**Conference Tutorials**         
 <span style="font-size:0.87em;">
+– Computational Pathology Foundation Models: Datasets, Adaptation Strategies, and Evaluations     
+</span>
+<span style="font-size:0.78em;">
 - Dong Li, Chen Zhao, **Guihong Wan**, Xintao Wu, Yevgeniy Semenov.
   The International Joint Conference on Artificial Intelligence (IJCAI), Canada, August 16th, 2025.
 - Dong Li, Chen Zhao, **Guihong Wan**, Xintao Wu, Yevgenly Semenov.
