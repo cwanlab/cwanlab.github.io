@@ -4,8 +4,25 @@ permalink: /publications/
 author_profile: true
 ---
 
-<span style="font-size:1em;">Artificial Intelligence in Medicine</span>      
-<span style="font-size:0.87em;">     
+<span style="color:black">**Research Themes**</span>
+<span style="font-size:0.78em;">              
+[1] Graph and Deep Learning for Biomedical Data      
+– Graph Neural Networks and Biomedical Knowledge Graphs      
+– Self-Supervised and Contrastive Representation Learning     
+– Large Language and Vision Models (LLMs and LVMs) for Biomedical Applications     
+[2] Computational Geometry and Spatial Biology   
+– Geometric Algorithms for Modeling Tissue Microenvironments and Cell-Cell Interactions       
+– Single-Cell Spatial Analysis and Interpretation     
+– 3D Spatial Modeling Methods for Tissue and Cellular Structures    
+[3] Multimodal Integration and Clinical Decision Support      
+– Integrative Methods for Combining EHRs, Histopathology, and Spatial Multi-Omics     
+– Predictive modeling for Treatment Response and  Disease Progression     
+– Real-Time Clinical Decision Support under Uncertainty
+</span>
+
+<span style="color:black">**Publications**</span>
+<span style="font-size:0.87em;">Artificial Intelligence in Medicine</span>
+<span style="font-size:0.78em;">     
 – **G. Wan**, W. Chen, S. Khattab, K. Roster, N. Nguyen, B. Yan, A. Rajeh, J. Seo, H. Rashdan, L. Zubiri, M. J. Hadfield, S. Demehri, K-H Yu, W. Lotter, A. Gusev, N. R. LeBoeuf, K. L. Reynolds, S. G. Kwatra, Y. R. Semenov. 
 Multi-organ immune-related adverse events from immune checkpoint inhibitors and their downstream implications: a retrospective multicohort study. **The Lancet Oncology**, 2024. [Paper](https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(24)00278-X/abstract)<br>
 – **G. Wan**, Z. Maliga, B. Yan, T. Vallius, Y. Shi, S. Khattab, C. Chang, A. J. Nirmal, K-H Yu, D. Liu, C. G. Lian, M. S. DeSimone, P. K. Sorger, Y. R. Semenov. SpatialCells: automated profiling of tumor microenvironments with spatially resolved multiplexed single-cell data. Briefings in Bioinformatics, 2024. [Paper](https://academic.oup.com/bib/article/25/3/bbae189/7663435)<br>
@@ -21,8 +38,8 @@ Multi-organ immune-related adverse events from immune checkpoint inhibitors and 
 – Q. Wang, F. Liu, **G. Wan**, Y. Chen. Inference of brain states under anesthesia with meta learning based deep learning models. IEEE Transactions on Neural Systems and Rehabilitation Engineering, 2022. [Paper](https://ieeexplore.ieee.org/abstract/document/9755157)
 </span>   
 
-<span style="font-size:1em;">Graph Learning and Combinatorial Optimization</span>.        
-<span style="font-size:0.87em;">          
+<span style="font-size:0.87em;">Graph Learning and Combinatorial Optimization</span>
+<span style="font-size:0.78em;">          
 – **G. Wan**, B. He, H. Schweitzer. The art of centering without centering for robust principal component analysis. Data Mining and Knowledge Discovery, 2024. [Paper](https://personal.utdallas.edu/~haim/publications/biastrick.pdf)        
 – **G. Wan**, H. Schweitzer. Spectral pursuit for simultaneous sparse representation with accuracy guarantees. International Journal of Data Science and Analytics, 2024. [Paper](https://link.springer.com/article/10.1007/s41060-023-00480-y)      
 – **G. Wan**, H. Schweitzer. Heuristic Search for Approximating One Matrix in Terms of Another Matrix, IJCAI, 2021. [Paper](https://personal.utdallas.edu/~haim/publications/ijcai21.pdf) [Code](https://github.com/cwanlab/AStarXY)     
@@ -34,8 +51,8 @@ Multi-organ immune-related adverse events from immune checkpoint inhibitors and 
 
 
 <!-- divider -->
-<span style="font-size:1em;">Clinical Informatics and Genetics</span>      
-<span style="font-size:0.87em;">     
+<span style="font-size:0.87em;">Clinical Informatics and Genetics</span>
+<span style="font-size:0.78em;">     
 – S. Khattab\*, **G. Wan**\*, et al. Long-term mortality outcomes among immunotherapy recipients treated with dupilumab for the management of cutaneous immune-related adverse events. Journal for ImmunoTherapy of Cancer, 2025. [Paper](https://jitc.bmj.com/content/13/5/e010638)        
 – **G. Wan**, S. Khattab, B. Leung, et al. Cancer type and histology influence cutaneous immunotherapy toxicities: a multi-institutional cohort study. British Journal of Dermatology, 2024. [Paper](https://academic.oup.com/bjd/advance-article-abstract/doi/10.1093/bjd/ljae053/7608988)    
 – C. Vasavda\*, **G. Wan**\*, et al. A polygenic risk score for predicting racial and genetic susceptibility to prurigo nodularis. Journal of Investigative Dermatology, 2023. (\*Equal contribution) [Paper](https://www.sciencedirect.com/science/article/pii/S0022202X23021255)     

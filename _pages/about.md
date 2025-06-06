@@ -25,24 +25,6 @@ At CWan Lab (pronounced "Wan Lab"), we advance the foundations of artificial int
 <span style="color:blue">We are actively recruiting postdoctoral researchers, graduate students, and data scientists with expertise in artificial intelligence, machine learning, and spatial biology, particularly as applied to cancer and precsion medicine.</span>   
 
 
-<span style="color:black">**Research Themes**</span>
-<span style="font-size:0.78em;">              
-[1] Graph and Deep Learning for Biomedical Data      
-– Graph Neural Networks and Biomedical Knowledge Graphs      
-– Self-Supervised and Contrastive Representation Learning     
-– Large Language and Vision Models (LLMs and LVMs) for Biomedical Applications     
-[2] Computational Geometry and Spatial Biology   
-– Geometric Algorithms for Modeling Tissue Microenvironments and Cell-Cell Interactions       
-– Single-Cell Spatial Analysis and Interpretation     
-– 3D Spatial Modeling Methods for Tissue and Cellular Structures    
-[3] Multimodal Integration and Clinical Decision Support      
-– Integrative Methods for Combining EHRs, Histopathology, and Spatial Multi-Omics     
-– Predictive modeling for Treatment Response and  Disease Progression     
-– Real-Time Clinical Decision Support under Uncertainty
-</span>
-
-
-
 <span style="color:blue">*News*</span>   
 <!--  -->
 **2025**         
