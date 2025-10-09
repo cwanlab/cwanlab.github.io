@@ -29,6 +29,8 @@ At CWan Lab (pronounced "Wan Lab"), we advance the foundations of artificial int
 <!--  -->
 **2025**         
 <span style="font-size:0.78em;">
+– 8/18/2025: Our tutoral "Computational Pathology Foundation Models: Datasets, Adaptation Strategies, and Evaluations" was presented at the International Joint Conference on Artificial Intelligence (IJCAI). [Website](https://sites.google.com/view/ijcai25-tutorial-cpath/home) [Slides](https://drive.google.com/file/d/1MMXEVfxjoCdFsAZIRsIAR6m9kJol4MId/view)
+– 6/10/2025: Our tutoral "Computational Pathology Foundation Models: Datasets, Adaptation Strategies, and Evaluations" was presented at the Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD). [Website](https://sites.google.com/view/pakdd25tutorial/home)
 – 4/29/2025: Our paper "FADE: Towards Fairness-aware Data Generation for Domain Generalization via Classifier-Guided Score-based Diffusion Models" was accepted by IJCAI 2025.      
 – 4/23/2025: Our paper "Long-term mortality outcomes among immunotherapy recipients treated with dupilumab for the management of cutaneous immune-related adverse events" was accepted by the Journal for ImmunoTherapy of Cancer.     
 – 2/21/2025: Our study "Survival implications of systemic immunosuppression timing, dosage, and duration in immune checkpoint inhibitor therapy: A retrospective multicohort study" was accepted for Oral Presentation at 2025 SID Annual Meeting.        
