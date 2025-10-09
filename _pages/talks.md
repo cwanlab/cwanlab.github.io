@@ -29,7 +29,7 @@ Hands-on tutorials with tools like Scanpy, Squidpy, PyTorch Geometric, SCIMAP, a
 – AI for Precision Medicine: Integrative Analysis of Histopathology Images and Spatial Omics     
 </span>
 <span style="font-size:0.78em;">
-&nbsp;&nbsp;&nbsp;&nbsp;Ninghui Hao, Boshen Yan, Dong Li, Chen Zhao, **Guihong Wan**.        
+&nbsp;&nbsp;&nbsp;&nbsp;\[ICDM'25\]Ninghui Hao, Boshen Yan, Dong Li, Chen Zhao, **Guihong Wan**.        
 &nbsp;&nbsp;&nbsp;&nbsp;The IEEE International Conference on Data Mining (ICDM), November 14th, 2025. 
 [Website](https://sites.google.com/view/icdm25tutorial-ai4pm/main).      
 </span>
