@@ -24,20 +24,31 @@ Foundation models in digital pathology; integration of omics, imaging, and clini
 Hands-on tutorials with tools like Scanpy, Squidpy, PyTorch Geometric, SCIMAP, and SpatialCells; emphasis on practical coding and data analysis workflows.
 </span>
 
-**Conference Tutorials**         
+**Conference Tutorials**   
+<span style="font-size:0.87em;">
+– AI for Precision Medicine: Integrative Analysis of Histopathology Images and Spatial Omics     
+</span>
+<span style="font-size:0.78em;">
+&nbsp;&nbsp;&nbsp;&nbsp;Ninghui Hao, Boshen Yan, Dong Li, Chen Zhao, **Guihong Wan**. 
+The IEEE International Conference on Data Mining (ICDM), Washington D.C., November 14th, 2025. 
+[Website](https://sites.google.com/view/icdm25tutorial-ai4pm/main).      
+</span>
+
 <span style="font-size:0.87em;">
 – Computational Pathology Foundation Models: Datasets, Adaptation Strategies, and Evaluations     
 </span>
 <span style="font-size:0.78em;">
-  &nbsp;&nbsp;&nbsp;&nbsp;-Dong Li, **Guihong Wan**, Xintao Wu, Yevgeniy Semenov, Chen Zhao.       
-  The Annual AAAI Conference on Artificial Intelligence (AAAI), Singapore, January 21st, 2026.
-&nbsp;&nbsp;&nbsp;&nbsp;-Dong Li, Ninghui Hao, **Guihong Wan**, Xintao Wu, Chen Zhao.          
-  The IEEE International Conference on Data Mining (ICDM), Washington D.C., November 13th, 2025.
-&nbsp;&nbsp;&nbsp;&nbsp;-Dong Li, Chen Zhao, **Guihong Wan**, Xintao Wu, Yevgeniy Semenov.        
-  The International Joint Conference on Artificial Intelligence (IJCAI), 2025.          
-&nbsp;&nbsp;&nbsp;&nbsp;-Dong Li, Chen Zhao, **Guihong Wan**, Xintao Wu, Yevgeniy Semenov.            
-  The Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD), 2025.
+&nbsp;&nbsp;&nbsp;&nbsp;Dong Li, **Guihong Wan**, Xintao Wu, Yevgeniy Semenov, Chen Zhao. 
+The Annual AAAI Conference on Artificial Intelligence (AAAI), Singapore, January 21st, 2026. [Website](https://sites.google.com/view/aaai26tutorial-cpath/home).          
+&nbsp;&nbsp;&nbsp;&nbsp;Dong Li, Ninghui Hao, **Guihong Wan**, Xintao Wu, Chen Zhao. 
+The IEEE International Conference on Data Mining (ICDM), Washington D.C., November 13th, 2025.      
+&nbsp;&nbsp;&nbsp;&nbsp;Dong Li, Chen Zhao, **Guihong Wan**, Xintao Wu, Yevgeniy Semenov.        
+The International Joint Conference on Artificial Intelligence (IJCAI), 2025. [Website](https://sites.google.com/view/ijcai25-tutorial-cpath/home) [Slides](https://drive.google.com/file/d/1MMXEVfxjoCdFsAZIRsIAR6m9kJol4MId/view)                   
+&nbsp;&nbsp;&nbsp;&nbsp;Dong Li, Chen Zhao, **Guihong Wan**, Xintao Wu, Yevgeniy Semenov.            
+The Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD), 2025. [Website](https://sites.google.com/view/pakdd25tutorial/home)        
 </span>
+
+
 
 **Invited Talks**    
 <span style="font-size:0.87em;">
