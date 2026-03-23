@@ -11,7 +11,7 @@ redirect_from:
 **Postdoctoral Reseachers**      
 <span style="font-size:0.87em;">
 – Xinxing Yang, PhD, Shanghai Jiao Tong University     
-– Running Zhao (Incoming), PhD, The University of Hong Kong           
+– Running Zhao, PhD, The University of Hong Kong           
 </span>  
 
 **Research Assistants**      
