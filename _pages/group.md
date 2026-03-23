@@ -10,8 +10,15 @@ redirect_from:
 
 **Postdoctoral Reseachers**      
 <span style="font-size:0.87em;">
-– Xinxing Yang, PhD, Shanghai Jiao Tong University         
+– Xinxing Yang, PhD, Shanghai Jiao Tong University     
+– Running Zhao (Incoming), PhD, The University of Hong Kong           
 </span>  
+
+**Research Assistants**      
+<span style="font-size:0.87em;">
+– Yusheng Tan, MS in Computer Science, Washington University in St. Louis       
+– Chunjie Xu, MS in Computer Science, Beihang University and UMass Boston      
+</span>
 
 <!-- **Students**      
 <span style="font-size:0.87em;">
