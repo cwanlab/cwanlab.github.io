@@ -8,10 +8,15 @@ redirect_from:
 
 {% include base_path %}
 
-**Students**      
+**Postdoctoral Reseachers**      
 <span style="font-size:0.87em;">
-– Ninghui Hao, 2024, Master of Biomedical Informatics student at Harvard Medical School     
+– Xinxing Yang, PhD, Shanghai Jiao Tong University         
 </span>  
+
+<!-- **Students**      
+<span style="font-size:0.87em;">
+– Yusheng Tan, Master of Biomedical Informatics student at Harvard Medical School     
+</span>  --> 
 
 **Mentors and Collaborators**  
 <span style="font-size:0.87em;">
@@ -29,10 +34,11 @@ redirect_from:
 
 **Alumni**     
 <span style="font-size:0.87em;">
+– Ninghui Hao, 2024, Master of Biomedical Informatics student at Harvard Medical School   
 – Boshen Yan, 2023, Master of Biomedical Informatics student at Harvard Medical School     
-PhD student (Computational Biology), Carnegie-Mellon University.     
+Next Position: PhD student (Computational Biology), Carnegie-Mellon University.     
 – Wenxin Chen, 2022, Master of Biomedical Informatics student at Harvard Medical School    
-PhD student (Computer Science), Cornell University.    
+Next Position: PhD student (Computer Science), Cornell University.    
 – Shijia Zhang, 2021, Master of Biomedical Informatics student at Harvard Medical School    
-PhD student (Biomedical Informatics and Data Science), Johns Hopkins University.
+Next Position: PhD student (Biomedical Informatics and Data Science), Johns Hopkins University.
 </span>      
