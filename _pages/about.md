@@ -19,7 +19,8 @@ where I was fortunate to be advised by Dr. Haim Schweitzer.</span>
 
 <!-- Our research focuses on the development of computational methodologies for multimodal analyses and explainable machine learning models of biomedical data, which will enable personalized medicine. -->
 <span style="font-size:0.78em;">
-At CWan Lab (pronounced "Wan Lab"), we advance the foundations of artificial intelligence and machine learning to address key challenges in biomedicine, with a focus on spatially resolved biological data. Our work bridges algorithmic innovation and real-world application, developing biologically grounded and clinically impactful models that uncover disease mechanisms and drive personalized medicine.
+At CWan Lab (pronounced "Wan Lab"), we advance the foundations of artificial intelligence and machine learning to address key challenges in biomedicine, with a focus on spatially resolved biomedical data. 
+Our work bridges algorithmic innovation and real-world application, developing biologically interpretable and clinically impactful models that uncover disease mechanisms and drive personalized medicine.
 </span>  
 
 <span style="color:blue">We are actively recruiting postdoctoral researchers, graduate students, and data scientists with expertise in artificial intelligence, machine learning, and spatial biology, particularly as applied to cancer and precsion medicine.</span>   
@@ -27,6 +28,13 @@ At CWan Lab (pronounced "Wan Lab"), we advance the foundations of artificial int
 
 <span style="color:blue">*News*</span>   
 <!--  -->
+**2026**         
+<span style="font-size:0.78em;">
+– 03/01/2026: Dr. Yang joined the lab as a postdoctoral scholar. Welcome!       
+- 02/19/2026: Two studies ("A Multi-Agent AI System for Diagnostic and Therapeutic Decision-Making in Dermatology" and "Fair and Generalizable AI for Skin Lesion Diagnosis") were accepted for presentation at the Society for Investigative Dermatology 2026 Annual Meeting.
+– 01/01/2026: Dr. Wan joined the Institute for Population and Precision Health (IPPH) at the University of Chicago as a tenure-track Assistant Professor.         
+</span> 
+
 **2025**         
 <span style="font-size:0.78em;">
 – 9/13/2025: Our tutorial "AI for Precision Medicine: Integrative Analysis of Histopathology Images and Spatial Omics" has been accepted for presentation at the IEEE International Conference on Data Mining (ICDM), November 14th, 2025. [Website](https://sites.google.com/view/icdm25tutorial-ai4pm/main).    

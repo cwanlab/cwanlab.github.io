@@ -10,7 +10,8 @@ redirect_from:
 
 **Academic Faculty Position**    
 <span style="font-size:0.87em;">
-Instructor in the Department of Dermatology, Massachusetts General Hospital and Harvard Medical School, 2024 – Current
+Assistant Professor in the Institute for Population and Precision Health, University of Chicago, 2025 – Present
+Instructor in the Department of Dermatology, Massachusetts General Hospital and Harvard Medical School, 2024 – 2025
 </span>
 
 **Education**    
@@ -27,7 +28,7 @@ Machine Learning in Healthcare; Biomedical Informatics, Massachusetts General Ho
 
 **Awards and Honors**    
 <span style="font-size:0.87em;">
-– NCI K99/R00 Award for Outstanding Early Stage Researchers, 2024.    
+– NCI K99 Award for Outstanding Early Stage Researchers, 2024.    
 – Scholarship of $80,500.0, Harvard T.H. Chan School of Public Health, 2023-2027.     
 – Betty and Gifford Johnson Scholarship, University of Texas at Dallas, 2021.     
 – Outstanding Undergraduate Thesis, South-Central Minzu University, 2010.    
