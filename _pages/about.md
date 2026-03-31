@@ -34,7 +34,7 @@ Our work bridges algorithmic innovation and real-world application, developing b
 – 02/19/2026: Two studies 
 ("A Multi-Agent AI System for Diagnostic and Therapeutic Decision-Making in Dermatology" and "Fair and Generalizable AI for Skin Lesion Diagnosis") 
 were accepted for presentation at the Society for Investigative Dermatology 2026 Annual Meeting.        
-– 01/01/2026: Dr. Wan has joined the Institute for Population and Precision Health (IPPH) at the University of Chicago as **a tenure-track Assistant Professor**.         
+– 01/01/2026: Dr. Wan has joined the University of Chicago as **a tenure-track Assistant Professor**.         
 </span> 
 
 **2025**         
