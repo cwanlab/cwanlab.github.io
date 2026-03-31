@@ -23,7 +23,7 @@ At CWan Lab (pronounced "Wan Lab"), we advance the foundations of artificial int
 Our work bridges algorithmic innovation and real-world application, developing biologically interpretable and clinically impactful models that uncover disease mechanisms and drive personalized medicine.
 </span>  
 
-<span style="color:blue">We are actively recruiting postdoctoral researchers, graduate students, and data scientists with expertise in artificial intelligence, machine learning, and spatial biology, particularly as applied to cancer and precsion medicine.</span>   
+<span style="color:blue">We are actively recruiting postdoctoral researchers, graduate students, and data scientists with expertise in artificial intelligence, spatial biology, and robotics, particularly as applied to cancer, precsion medicine, and self-driving laboratories.</span>   
 
 
 <span style="color:blue">*News*</span>   
