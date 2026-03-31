@@ -26,7 +26,7 @@ Our work bridges algorithmic innovation and real-world application, developing b
 <span style="color:blue">We are actively recruiting postdoctoral researchers, graduate students, and data scientists with expertise in artificial intelligence, spatial biology, and robotics, particularly as applied to cancer, precsion medicine, and self-driving laboratories.</span>   
 
 
-<span style="color:blue">*News*</span>   
+<span style="color:blue">*News*</span>      
 <!--  -->
 **2026**         
 <span style="font-size:0.78em;">
@@ -38,7 +38,7 @@ were accepted for presentation at the Society for Investigative Dermatology 2026
 </span> 
 
 **2025**         
-<span style="font-size:0.78em;">      
+<span style="font-size:0.78em;">
 – 11/10/2025: Our paper "Multi-Modal Foundation Models for Computational Pathology: A Survey" was accepted for publication by Transactions on Machine Learning Research.       
 – 9/13/2025: Our tutorial "AI for Precision Medicine: Integrative Analysis of Histopathology Images and Spatial Omics" has been accepted for presentation at the IEEE International Conference on Data Mining (ICDM), November 14th, 2025. [Website](https://sites.google.com/view/icdm25tutorial-ai4pm/main).    
 – 9/13/2025: Our tutorial "Computational Pathology Foundation Models: Datasets, Adaptation Strategies, and Evaluations" has been accepted for presentation at the IEEE International Conference on Data Mining (ICDM), November 14th, 2025.                 
