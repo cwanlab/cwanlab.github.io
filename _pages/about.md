@@ -39,7 +39,7 @@ were accepted for presentation at the Society for Investigative Dermatology 2026
 
 **2025**         
 <span style="font-size:0.78em;">      
-– 11/10/2025: Our paper "Multi-Modal Foundation Models for Computational Pathology: A Survey" was accepted for publication by Transactions on Machine Learning Research.
+– 11/10/2025: Our paper "Multi-Modal Foundation Models for Computational Pathology: A Survey" was accepted for publication by Transactions on Machine Learning Research.       
 – 9/13/2025: Our tutorial "AI for Precision Medicine: Integrative Analysis of Histopathology Images and Spatial Omics" has been accepted for presentation at the IEEE International Conference on Data Mining (ICDM), November 14th, 2025. [Website](https://sites.google.com/view/icdm25tutorial-ai4pm/main).    
 – 9/13/2025: Our tutorial "Computational Pathology Foundation Models: Datasets, Adaptation Strategies, and Evaluations" has been accepted for presentation at the IEEE International Conference on Data Mining (ICDM), November 14th, 2025.                 
 – 9/05/2025: Our tutorial "Computational Pathology Foundation Models: Datasets, Adaptation Strategies, and Evaluations" has been accepted for presentation at the Annual AAAI Conference on Artificial Intelligence (AAAI), January 21st, 2026. [Website](https://sites.google.com/view/aaai26tutorial-cpath/home).       
