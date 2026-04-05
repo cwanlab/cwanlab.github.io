@@ -10,8 +10,8 @@ redirect_from:
 
 **Academic Faculty Employment**    
 <span style="font-size:0.87em;">
-Assistant Professor in the Institute for Population and Precision Health, University of Chicago, 2026 – Present             
-Instructor in the Department of Dermatology, Massachusetts General Hospital and Harvard Medical School, 2024 – 2025
+– Assistant Professor in the Institute for Population and Precision Health, University of Chicago, 2026 – Present             
+– Instructor in the Department of Dermatology, Massachusetts General Hospital and Harvard Medical School, 2024 – 2025
 </span>
 
 **Education**    
