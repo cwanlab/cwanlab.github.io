@@ -8,7 +8,7 @@ redirect_from:
 
 {% include base_path %}
 
-**Postdoctoral Reseachers**      
+**Postdoctoral Scholars**      
 <span style="font-size:0.87em;">
 – Xinxing Yang, PhD, Shanghai Jiao Tong University     
 – Running Zhao, PhD, The University of Hong Kong           
@@ -16,8 +16,8 @@ redirect_from:
 
 **Research Assistants**      
 <span style="font-size:0.87em;">
-– Yusheng Tan, MS, Washington University in St. Louis        
-– Chunjie Xu, MS, Beihang University and UMass Boston      
+– Yusheng Tan, MS in Computer Science, Washington University in St. Louis        
+– Chunjie Xu, MS in Computer Science, Beihang University and UMass Boston      
 </span>
  <!-- in Computer Science -->
 
@@ -29,8 +29,9 @@ redirect_from:
 **Collaborators**  
 <span style="font-size:0.87em;">
 – Arlene Ruiz de Luzuriaga, MD, MPH, MBA, Dermatologist, Dermatopathologist, and Associate Professor at the University of Chicago        
-– Zinan Zhou, PhD, Assistant Professor at the University of Chicago                  
-– Christine G. Lian, MD, Dermatopathologist, Department of Pathology at Brigham and Women’s Hospital and Harvard Medical School                     
+– Zinan Zhou, PhD, Assistant Professor at the University of Chicago            
+– Chen Zhao, PhD, Assistant Professor at Baylor University                         
+– Christine G. Lian, MD, Dermatopathologist and Associate Professor at Brigham and Women’s Hospital and Harvard Medical School                     
 – Nga Nguyen, MD, MPH, Radiation Oncology Resident, Atrium Health Wake Forest Baptist  
 </span> 
 
@@ -42,9 +43,6 @@ redirect_from:
 – Alexander Gusev, PhD, Associate Professor at Dana-Farber Cancer Institute and Harvard Medical School                     
 <!-- – Shawn G. Kwatra, MD, Joseph W. Burnett Professor and Chairman of Dermatology, University of Maryland School of Medicine        -->
 <!-- – Alex K. Shalek, PhD, Associate Professor at Massachusetts Institute of Technology       -->
-<!-- – Christine G. Lian, MD, Dermatopathologist, Department of Pathology at Brigham and Women’s Hospital and Harvard Medical School               -->
-<!-- – Mia S. DeSimone, MD, Dermatopathologist, Department of Pathology at Brigham and Women’s Hospital and Harvard Medical School         -->
-<!-- – Nga Nguyen, MD, MPH, Radiation Oncology Resident, Atrium Health Wake Forest Baptist -->
 – Haim Schweitzer, PhD, Professor of Computer Science, University of Texas at Dallas    
 </span> 
 
