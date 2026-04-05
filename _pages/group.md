@@ -44,8 +44,8 @@ redirect_from:
 <span style="font-size:0.87em;">
 – Yevgeniy R. Semenov, MD, Dermatologist and Assistant Professor at Massachusetts General Hospital and Harvard Medical School        
 – Peter K. Sorger, PhD, Otto Krayer Professor of Systems Pharmacology at Harvard Medical School    
-– Alexander Gusev, PhD, Associate Professor at Dana-Farber Cancer Institute and Harvard Medical School                 
-– Kun-Hsing Yu, MD, PhD, Associate Professor at Harvard Medical School      
+– Kun-Hsing Yu, MD, PhD, Associate Professor at Harvard Medical School         
+– Alexander Gusev, PhD, Associate Professor at Dana-Farber Cancer Institute and Harvard Medical School                     
 <!-- – Shawn G. Kwatra, MD, Joseph W. Burnett Professor and Chairman of Dermatology, University of Maryland School of Medicine        -->
 <!-- – Alex K. Shalek, PhD, Associate Professor at Massachusetts Institute of Technology       -->
 <!-- – Christine G. Lian, MD, Dermatopathologist, Department of Pathology at Brigham and Women’s Hospital and Harvard Medical School               -->
