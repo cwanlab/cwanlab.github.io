@@ -28,10 +28,10 @@ redirect_from:
 
 **Collaborators**  
 <span style="font-size:0.87em;">
-– Yevgeniy R. Semenov, MD, Dermatologist and Assistant Professor at Massachusetts General Hospital and Harvard Medical School        
-– Peter K. Sorger, PhD, Otto Krayer Professor of Systems Pharmacology at Harvard Medical School          
+– Arlene Ruiz de Luzuriaga, MD, MPH, MBA, Dermatologist, Dermatopathologist, and Associate Professor at the University of Chicago        
+– Zinan Zhou, PhD, Assistant Professor at the University of Chicago                  
 – Christine G. Lian, MD, Dermatopathologist, Department of Pathology at Brigham and Women’s Hospital and Harvard Medical School                     
-<!-- – Nga Nguyen, MD, MPH, Radiation Oncology Resident, Atrium Health Wake Forest Baptist   -->
+– Nga Nguyen, MD, MPH, Radiation Oncology Resident, Atrium Health Wake Forest Baptist  
 </span> 
 
 **Mentors**  
