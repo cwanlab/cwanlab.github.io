@@ -10,7 +10,7 @@ redirect_from:
 
 **Teaching**
 <span style="font-size:0.87em;">  
-**Course**: AI in Biomedicine 1 (Planned)        
+**Course**: AI in Biomedicine 1 (Planned, Winter 2026)        
 <!-- **Target audience**: Graduate students in Precision Health, Biomedical Informatics, Computational Biology, and Da   -->
 – Module 1: Introduction to Deep Learning        
 <!-- Overview of cellular biology and tumor ecosystem; histopathology images; spatial biology technologies, such as spatial transcriptomics and spatial proteomics.                -->
