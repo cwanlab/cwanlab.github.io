@@ -27,12 +27,12 @@ redirect_from:
 </span>  --> 
 
 **Collaborators**  
-<span style="font-size:0.87em;">
-– Arlene Ruiz de Luzuriaga, MD, MPH, MBA, Dermatologist, Dermatopathologist, and Associate Professor at the University of Chicago        
+<span style="font-size:0.87em;">      
 – Zinan Zhou, PhD, Assistant Professor at the University of Chicago            
+– Arlene Ruiz de Luzuriaga, MD, MPH, MBA, Dermatologist, Dermatopathologist, and Associate Professor at the University of Chicago     
 – Chen Zhao, PhD, Assistant Professor at Baylor University                         
 – Christine G. Lian, MD, Dermatopathologist and Associate Professor at Brigham and Women’s Hospital and Harvard Medical School                     
-– Nga Nguyen, MD, MPH, Radiation Oncology Resident, Atrium Health Wake Forest Baptist  
+– Nga Nguyen, MD, MPH, Radiation Oncology Resident, Atrium Health Wake Forest Baptist   
 </span> 
 
 **Mentors**  
