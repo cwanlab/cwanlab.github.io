@@ -16,16 +16,17 @@ redirect_from:
 
 **Research Assistants**      
 <span style="font-size:0.87em;">
-– Yusheng Tan, MS in Computer Science, Washington University in St. Louis       
-– Chunjie Xu, MS in Computer Science, Beihang University and UMass Boston      
+– Yusheng Tan, MS, Washington University in St. Louis        
+– Chunjie Xu, MS, Beihang University and UMass Boston      
 </span>
+ <!-- in Computer Science -->
 
 <!-- **Students**      
 <span style="font-size:0.87em;">
 – Yusheng Tan, Master of Biomedical Informatics student at Harvard Medical School     
 </span>  --> 
 
-<!-- **Mentors and Collaborators**  
+**Mentors and Collaborators**  
 <span style="font-size:0.87em;">
 – Yevgeniy R. Semenov, MD, Dermatologist and Assistant Professor at Massachusetts General Hospital and Harvard Medical School        
 – Peter K. Sorger, PhD, Otto Krayer Professor of Systems Pharmacology at Harvard Medical School    
@@ -35,9 +36,23 @@ redirect_from:
 – Alex K. Shalek, PhD, Associate Professor at Massachusetts Institute of Technology      
 – Christine G. Lian, MD, Dermatopathologist, Department of Pathology at Brigham and Women’s Hospital and Harvard Medical School              
 – Mia S. DeSimone, MD, Dermatopathologist, Department of Pathology at Brigham and Women’s Hospital and Harvard Medical School        
-<!-- – Nga Nguyen, MD, MPH, Radiation Oncology Resident, Atrium Health Wake Forest Baptist   -->
+– Nga Nguyen, MD, MPH, Radiation Oncology Resident, Atrium Health Wake Forest Baptist
 – Haim Schweitzer, PhD, Professor of Computer Science, University of Texas at Dallas    
-</span>  -->   
+</span> 
+
+**Mentors**  
+<span style="font-size:0.87em;">
+– Yevgeniy R. Semenov, MD, Dermatologist and Assistant Professor at Massachusetts General Hospital and Harvard Medical School        
+– Peter K. Sorger, PhD, Otto Krayer Professor of Systems Pharmacology at Harvard Medical School    
+– Alexander Gusev, PhD, Associate Professor at Dana-Farber Cancer Institute and Harvard Medical School                 
+– Kun-Hsing Yu, MD, PhD, Associate Professor at Harvard Medical School      
+<!-- – Shawn G. Kwatra, MD, Joseph W. Burnett Professor and Chairman of Dermatology, University of Maryland School of Medicine        -->
+<!-- – Alex K. Shalek, PhD, Associate Professor at Massachusetts Institute of Technology       -->
+<!-- – Christine G. Lian, MD, Dermatopathologist, Department of Pathology at Brigham and Women’s Hospital and Harvard Medical School               -->
+<!-- – Mia S. DeSimone, MD, Dermatopathologist, Department of Pathology at Brigham and Women’s Hospital and Harvard Medical School         -->
+<!-- – Nga Nguyen, MD, MPH, Radiation Oncology Resident, Atrium Health Wake Forest Baptist -->
+– Haim Schweitzer, PhD, Professor of Computer Science, University of Texas at Dallas    
+</span> 
 
 **Alumni**     
 <span style="font-size:0.87em;">
