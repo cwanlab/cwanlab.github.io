@@ -13,7 +13,8 @@ redirect_from:
 – Project: Explainable Artificial Intelligence for Melanoma Recurrence Prediction via Integrative Modeling of
 Multiplexed Imaging with Transcriptomics and Histopathology [Details](https://reporter.nih.gov/search/HLO5t0xrqkuGwnjOVLLshQ/project-details/10796370)    
 – Principal Investigator: Guihong Wan     
-– Award duration for the K99 phase: 02/2024 – 01/2026     
+– Award duration for the K99 phase: 02/2024 – 12/2025     
+– Award duration for the R00 phase: TBD     
 </span>  
 
 **MGH ECOR Fund for Medical Discovery, Clinical Research Fellowship Award**      

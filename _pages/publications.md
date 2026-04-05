@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<span style="color:black">**Research Themes**</span>
+<!-- <span style="color:black">**Research Themes**</span>
 <span style="font-size:0.78em;">              
 [1] Graph and Deep Learning for Biomedical Data      
 – Graph Neural Networks and Biomedical Knowledge Graphs      
@@ -18,7 +18,7 @@ author_profile: true
 – Integrative Methods for Combining EHRs, Histopathology, and Spatial Multi-Omics     
 – Predictive modeling for Treatment Response and  Disease Progression     
 – Real-Time Clinical Decision Support under Uncertainty
-</span>
+</span> -->
 
 <span style="color:black">**Publications**</span>       
 <span style="font-size:0.87em;">Artificial Intelligence in Medicine</span>
