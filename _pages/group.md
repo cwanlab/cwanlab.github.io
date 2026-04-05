@@ -26,18 +26,12 @@ redirect_from:
 – Yusheng Tan, Master of Biomedical Informatics student at Harvard Medical School     
 </span>  --> 
 
-**Mentors and Collaborators**  
+**Collaborators**  
 <span style="font-size:0.87em;">
 – Yevgeniy R. Semenov, MD, Dermatologist and Assistant Professor at Massachusetts General Hospital and Harvard Medical School        
-– Peter K. Sorger, PhD, Otto Krayer Professor of Systems Pharmacology at Harvard Medical School    
-– Alexander Gusev, PhD, Associate Professor at Dana-Farber Cancer Institute and Harvard Medical School                 
-– Kun-Hsing Yu, MD, PhD, Assistant Professor at Harvard Medical School      
-– Shawn G. Kwatra, MD, Joseph W. Burnett Professor and Chairman of Dermatology, University of Maryland School of Medicine       
-– Alex K. Shalek, PhD, Associate Professor at Massachusetts Institute of Technology      
-– Christine G. Lian, MD, Dermatopathologist, Department of Pathology at Brigham and Women’s Hospital and Harvard Medical School              
-– Mia S. DeSimone, MD, Dermatopathologist, Department of Pathology at Brigham and Women’s Hospital and Harvard Medical School        
-– Nga Nguyen, MD, MPH, Radiation Oncology Resident, Atrium Health Wake Forest Baptist
-– Haim Schweitzer, PhD, Professor of Computer Science, University of Texas at Dallas    
+– Peter K. Sorger, PhD, Otto Krayer Professor of Systems Pharmacology at Harvard Medical School          
+– Christine G. Lian, MD, Dermatopathologist, Department of Pathology at Brigham and Women’s Hospital and Harvard Medical School                     
+<!-- – Nga Nguyen, MD, MPH, Radiation Oncology Resident, Atrium Health Wake Forest Baptist   -->
 </span> 
 
 **Mentors**  
