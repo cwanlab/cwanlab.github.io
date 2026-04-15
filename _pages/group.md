@@ -26,7 +26,7 @@ redirect_from:
 
 **Students**      
 <span style="font-size:0.87em;">
-– Ninghui Hao, PhD student (External PhD Advisor)     
+– Ninghui Hao, PhD student, 2026 (External PhD Advisor)     
 </span>
 
 
