@@ -10,8 +10,10 @@ redirect_from:
 
 **Postdoctoral Scholars**      
 <span style="font-size:0.87em;">
-– Xinxing Yang, PhD, Shanghai Jiao Tong University     
-– Running Zhao, PhD, The University of Hong Kong           
+– Xinxing Yang (2026)
+<!-- , PhD, Shanghai Jiao Tong University      -->
+– Running Zhao (2026)
+<!-- , PhD, The University of Hong Kong            -->
 </span>  
 
 **PhD Students**      
@@ -21,7 +23,7 @@ redirect_from:
 
 **Research Assistants**      
 <span style="font-size:0.87em;">
-– Yusheng Tan
+– Yusheng Tan (2026)
 <!-- – Yusheng Tan, MS in Computer Science, Washington University in St. Louis         -->
 <!-- – Chunjie Xu, MS in Computer Science, Beihang University and UMass Boston       -->
 </span>
@@ -43,8 +45,8 @@ redirect_from:
 – Peter K. Sorger, PhD, Otto Krayer Professor of Systems Pharmacology at Harvard Medical School    
 – Kun-Hsing Yu, MD, PhD, Associate Professor at Harvard Medical School         
 – Alexander Gusev, PhD, Associate Professor at Dana-Farber Cancer Institute and Harvard Medical School                     
-<!-- – Shawn G. Kwatra, MD, Joseph W. Burnett Professor and Chairman of Dermatology, University of Maryland School of Medicine        -->
-<!-- – Alex K. Shalek, PhD, Associate Professor at Massachusetts Institute of Technology       -->
+– Shawn G. Kwatra, MD, Joseph W. Burnett Professor and Chairman of Dermatology, University of Maryland School of Medicine    
+– Alex K. Shalek, PhD, Associate Professor at Massachusetts Institute of Technology    
 – Haim Schweitzer, PhD, Professor of Computer Science, University of Texas at Dallas    
 </span>  -->
 
