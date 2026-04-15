@@ -24,7 +24,7 @@ Our work bridges algorithmic innovation and real-world application, developing b
 </span>  
 
 <span style="color:blue">We are actively recruiting postdoctoral researchers and research assistants with expertise in artificial intelligence, spatial biology, and robotics, particularly as applied to cancer, precsion medicine, and self-driving laboratories.</span>   
-<span style="color:blue">We welcome UChicago students interested in conducting research to join our laboratory.</span> 
+<span style="color:blue">We welcome UChicago students who are interested in conducting research to join our laboratory.</span> 
 
 <span style="color:blue">*News*</span>      
 <!--  -->
