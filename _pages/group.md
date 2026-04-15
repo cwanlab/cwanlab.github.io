@@ -54,7 +54,7 @@ redirect_from:
 **Alumni**     
 <span style="font-size:0.87em;">
 – Sihao Feng, 2025, MS student in Statistics at the University of Chicago          
-Next Position: PhD student (Biostatistics), Yale University.
+Next Position: PhD student (Biostatistics), Yale University.        
 – Ninghui Hao, 2024, Master of Biomedical Informatics student at Harvard Medical School    
 Next Position: PhD student (Computer Science), University of Texas at Dallas.     
 – Boshen Yan, 2023, Master of Biomedical Informatics student at Harvard Medical School      
