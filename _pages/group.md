@@ -52,12 +52,12 @@ redirect_from:
 
 **Alumni**     
 <span style="font-size:0.87em;">
-– Ninghui Hao, 2024, Master of Biomedical Informatics student at Harvard Medical School   
-Next Position: PhD student (Computer Science), University of Texas at Dallas. 
-– Boshen Yan, 2023, Master of Biomedical Informatics student at Harvard Medical School     
+– Ninghui Hao, 2024, Master of Biomedical Informatics student at Harvard Medical School    
+Next Position: PhD student (Computer Science), University of Texas at Dallas.     
+– Boshen Yan, 2023, Master of Biomedical Informatics student at Harvard Medical School      
 Next Position: PhD student (Computational Biology), Carnegie-Mellon University.     
-– Wenxin Chen, 2022, Master of Biomedical Informatics student at Harvard Medical School    
-Next Position: PhD student (Computer Science), Cornell University.    
-– Shijia Zhang, 2021, Master of Biomedical Informatics student at Harvard Medical School    
+– Wenxin Chen, 2022, Master of Biomedical Informatics student at Harvard Medical School     
+Next Position: PhD student (Computer Science), Cornell University.     
+– Shijia Zhang, 2021, Master of Biomedical Informatics student at Harvard Medical School     
 Next Position: PhD student (Biomedical Informatics and Data Science), Johns Hopkins University.
 </span>      
