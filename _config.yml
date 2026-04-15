@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "PI: Guihong C. WAN"
   bio              : "Assistant Professor in Precision Health; NIH/NCI K99/R00 Awardee"
-  location         : "Chicago"
+  # location         : "Chicago"
   employer         : "University of Chicago"
   email            : "guihong.wan@outlook.com" 
 
