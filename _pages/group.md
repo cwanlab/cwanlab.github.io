@@ -10,24 +10,24 @@ redirect_from:
 
 **Postdoctoral Scholars**      
 <span style="font-size:0.87em;">
-– Xinxing Yang (2026)
+– Xinxing Yang (2026)    
 <!-- , PhD, Shanghai Jiao Tong University      -->
-– Running Zhao (2026)
+– Running Zhao (2026)     
 <!-- , PhD, The University of Hong Kong            -->
 </span>  
 
-**PhD Students**      
-<span style="font-size:0.87em;">
-– Ninghui Hao (External PhD Advisor)     
-</span>
-
 **Research Assistants**      
 <span style="font-size:0.87em;">
-– Yusheng Tan (2026)
+– Yusheng Tan (2026)    
 <!-- – Yusheng Tan, MS in Computer Science, Washington University in St. Louis         -->
 <!-- – Chunjie Xu, MS in Computer Science, Beihang University and UMass Boston       -->
 </span>
  <!-- in Computer Science -->
+
+**Students**      
+<span style="font-size:0.87em;">
+– Ninghui Hao, PhD student (External PhD Advisor)     
+</span>
 
 
 <!-- **Collaborators**  
