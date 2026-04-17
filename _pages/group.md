@@ -28,6 +28,7 @@ redirect_from:
 <span style="font-size:0.87em;">
 – Ninghui Hao, PhD student, 2026 (External PhD Advisor)     
 – Ash Arian, MD student, 2026
+– Adam Kamel, Undergraduate (Pre-med) student, 2026
 </span>
 
 
