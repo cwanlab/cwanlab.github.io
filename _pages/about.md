@@ -13,24 +13,28 @@ where I was fortunate to be advised by Dr. Haim Schweitzer.</span>
  -->
 
 <span style="font-size:0.97em;">
- Artificial Intelligence, Machine Learning, and Spatial Biology in Precision Medicine (AI4PM) 
+ Artificial Intelligence, Machine Learning, and Spatial Biology in Precision Medicine 
 <!-- at the University of Chicago -->
 </span> 
 
 <!-- Our research focuses on the development of computational methodologies for multimodal analyses and explainable machine learning models of biomedical data, which will enable personalized medicine. -->
 <span style="font-size:0.78em;">
-At CWan Lab (pronounced "Wan Lab"), we advance the foundations of artificial intelligence and machine learning to address key challenges in biomedicine, with a focus on spatially resolved biomedical data. 
+At CWan Lab (pronounced "Wan Lab"), we advance the foundations of artificial intelligence and machine learning to address key challenges in health, with a focus on spatially resolved biomedical data. 
 Our work bridges algorithmic innovation and real-world application, developing biologically interpretable and clinically impactful models that uncover disease mechanisms and drive personalized medicine.
 </span>  
 
-<span style="color:blue">We are actively recruiting postdoctoral researchers and research assistants with expertise in artificial intelligence, spatial biology, and robotics, particularly as applied to cancer, precsion medicine, and self-driving laboratories.</span>   
+<span style="color:blue">We are actively recruiting postdoctoral researchers and research assistants with expertise in artificial intelligence and spatial biology, particularly as applied to cancer and precsion medicine.</span>   
 <span style="color:blue">We welcome UChicago students who are interested in conducting research to join our laboratory.</span> 
+<!-- , and self-driving laboratories -->
 
 <span style="color:blue">*News*</span>      
 <!--  -->
 **2026**         
 <span style="font-size:0.78em;">
-– 03/01/2026: Dr. Yang has joined the lab as a postdoctoral scholar. Welcome!       
+– 05/05/2026: Our tutorial "AI for Precision Medicine: Histopathology-centered Computational Analysis of Spatial Omics: Integration, Mapping, and Foundation Models" has been accepted by KDD 2026.
+– 05/01/2026: Dr. Zhao has joined the lab as a postdoctoral scholar. Welcome!        
+– 04/01/2026: Our paper "Systemic Glucocorticoids and Survival Among Immune Checkpoint Inhibitor Recipients" was accepted for publication by JAMA Network Open.
+– 03/01/2026: Dr. Yang has joined the lab as a postdoctoral scholar. Welcome!          
 – 02/19/2026: Two studies 
 ("A Multi-Agent AI System for Diagnostic and Therapeutic Decision-Making in Dermatology" and "Fair and Generalizable AI for Skin Lesion Diagnosis") 
 were accepted for presentation at the Society for Investigative Dermatology 2026 Annual Meeting.        
