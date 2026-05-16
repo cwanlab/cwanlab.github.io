@@ -31,9 +31,9 @@ Our work bridges algorithmic innovation and real-world application, developing b
 <!--  -->
 **2026**         
 <span style="font-size:0.78em;">
-– 05/05/2026: Our tutorial "AI for Precision Medicine: Histopathology-centered Computational Analysis of Spatial Omics: Integration, Mapping, and Foundation Models" has been accepted by KDD 2026.
+– 05/05/2026: Our tutorial "AI for Precision Medicine: Histopathology-centered Computational Analysis of Spatial Omics: Integration, Mapping, and Foundation Models" has been accepted by KDD 2026.      
 – 05/01/2026: Dr. Zhao has joined the lab as a postdoctoral scholar. Welcome!        
-– 04/01/2026: Our paper "Systemic Glucocorticoids and Survival Among Immune Checkpoint Inhibitor Recipients" was accepted for publication by JAMA Network Open.
+– 04/01/2026: Our paper "Systemic Glucocorticoids and Survival Among Immune Checkpoint Inhibitor Recipients" was accepted for publication by JAMA Network Open.           
 – 03/01/2026: Dr. Yang has joined the lab as a postdoctoral scholar. Welcome!          
 – 02/19/2026: Two studies 
 ("A Multi-Agent AI System for Diagnostic and Therapeutic Decision-Making in Dermatology" and "Fair and Generalizable AI for Skin Lesion Diagnosis") 
