@@ -23,7 +23,7 @@ At CWan Lab (pronounced "Wan Lab"), we advance the foundations of artificial int
 Our work bridges algorithmic innovation and real-world application, developing biologically interpretable and clinically impactful models that uncover disease mechanisms and drive personalized medicine.
 </span>  
 
-<span style="color:blue">We are actively recruiting postdoctoral researchers and research assistants with expertise in artificial intelligence and spatial biology, particularly as applied to cancer and precsion medicine.</span>   
+<span style="color:blue">We are actively recruiting postdoctoral researchers and research assistants with expertise in Artificial Intelligence, Large Language Models, and Spatial Biology, particularly as applied to cancer and precsion health.</span>   
 <span style="color:blue">We welcome UChicago students who are interested in conducting research to join our laboratory.</span> 
 <!-- , and self-driving laboratories -->
 
@@ -31,14 +31,16 @@ Our work bridges algorithmic innovation and real-world application, developing b
 <!--  -->
 **2026**         
 <span style="font-size:0.78em;">
-– 05/05/2026: Our tutorial "AI for Precision Medicine: Histopathology-centered Computational Analysis of Spatial Omics: Integration, Mapping, and Foundation Models" has been accepted by KDD 2026.      
-– 05/01/2026: Dr. Zhao has joined the lab as a postdoctoral scholar. Welcome!        
-– 04/01/2026: Our paper "Systemic Glucocorticoids and Survival Among Immune Checkpoint Inhibitor Recipients" was accepted for publication by JAMA Network Open.           
-– 03/01/2026: Dr. Yang has joined the lab as a postdoctoral scholar. Welcome!          
-– 02/19/2026: Two studies 
+– 06/2026: Our paper "Histopathology-centered Computational Analysis of Spatial Omics: Integration, Mapping, and Foundation Models" has been accepted for publication by Briefings in Bioinformatics.        
+– 05/2026: Our paper "A survey on computational pathology foundation models: Datasets, adaptation strategies, and evaluation tasks" has been accepted for publication by KAIS.            
+– 05/2026: Our tutorial "AI for Precision Medicine: Histopathology-centered Computational Analysis of Spatial Omics: Integration, Mapping, and Foundation Models" has been accepted by KDD 2026.      
+– 05/2026: Dr. Zhao has joined the lab as a postdoctoral scholar. Welcome!        
+– 04/2026: Our paper "Systemic Glucocorticoids and Survival Among Immune Checkpoint Inhibitor Recipients" was accepted for publication by JAMA Network Open.           
+– 03/2026: Dr. Yang has joined the lab as a postdoctoral scholar. Welcome!          
+– 02/2026: Two studies 
 ("A Multi-Agent AI System for Diagnostic and Therapeutic Decision-Making in Dermatology" and "Fair and Generalizable AI for Skin Lesion Diagnosis") 
 were accepted for presentation at the Society for Investigative Dermatology 2026 Annual Meeting.        
-– 01/01/2026: Dr. Wan has joined the University of Chicago as **a tenure-track Assistant Professor**.         
+– 01/2026: Dr. Wan has joined the University of Chicago as **a tenure-track Assistant Professor**.         
 </span> 
 
 **2025**         
