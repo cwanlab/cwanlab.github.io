@@ -23,7 +23,15 @@ Foundation models in digital pathology; integration of omics, imaging, and clini
 Hands-on tutorials with tools like Scanpy, Squidpy, PyTorch Geometric, SCIMAP, and SpatialCells; emphasis on practical coding and data analysis workflows. -->
 </span>
 
-**Conference Tutorials**   
+**Conference Tutorials**
+<span style="font-size:0.87em;">
+– AI for Precision Medicine: Histopathology-centered Computational Analysis of Spatial Omics: Integration, Mapping, and Foundation Models    
+</span>
+<span style="font-size:0.78em;">
+&nbsp;&nbsp;&nbsp;&nbsp;\[*KDD'26*\]Ninghui Hao, Boshen Yan, Dong Li, Xintao Wu, Chen Zhao, **Guihong Wan**.        
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 2026.   
+</span>
+
 <span style="font-size:0.87em;">
 – AI for Precision Medicine: Integrative Analysis of Histopathology Images and Spatial Omics     
 </span>
