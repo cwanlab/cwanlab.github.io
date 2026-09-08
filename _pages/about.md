@@ -31,6 +31,8 @@ Our work bridges algorithmic innovation and real-world application, developing b
 <!--  -->
 **2026**         
 <span style="font-size:0.78em;">
+– 09/2026: Dr. Wan will give a guest lecture on clinical data analysis at Harvard Medical School on November 6th. 
+– 09/2026: Dr. Wan will give a research talk on spatial biology at Northwestern University on October 7th.  
 – 07/2026: Our team science project "Explainable Artificial Intelligence for the Prediction of Melanoma Progression and Survival" has been selected for funding.                
 – 06/2026: Our paper "Histopathology-centered Computational Analysis of Spatial Omics: Integration, Mapping, and Foundation Models" has been accepted for publication by Briefings in Bioinformatics.        
 – 05/2026: Our paper "A survey on computational pathology foundation models: Datasets, adaptation strategies, and evaluation tasks" has been accepted for publication by KAIS.            
