@@ -1,9 +1,9 @@
 ---
 layout: archive
-permalink: /talks/
+permalink: /teaching/
 author_profile: true
 redirect_from:
-  - /talks
+  - /teaching
 ---
 
 {% include base_path %}
