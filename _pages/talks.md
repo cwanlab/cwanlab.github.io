@@ -32,7 +32,7 @@ redirect_from:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Annual AAAI Conference on Artificial Intelligence (AAAI), January 21st, 2026. [Website](https://sites.google.com/view/aaai26tutorial-cpath/home).          
 &nbsp;&nbsp;&nbsp;&nbsp;\[*ICDM'25*\] Dong Li, Ninghui Hao, **Guihong Wan**, Xintao Wu, Chen Zhao.          
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The IEEE International Conference on Data Mining (ICDM), November 13th, 2025.      
-&nbsp;&nbsp;&nbsp;&nbsp;\[*IJCAI'25*\]Dong Li, Chen Zhao, **Guihong Wan**, Xintao Wu, Yevgeniy Semenov.          
+&nbsp;&nbsp;&nbsp;&nbsp;\[*IJCAI'25*\] Dong Li, Chen Zhao, **Guihong Wan**, Xintao Wu, Yevgeniy Semenov.          
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The International Joint Conference on Artificial Intelligence (IJCAI), August 18th, 2025. [Website](https://sites.google.com/view/ijcai25-tutorial-cpath/home) [Slides](https://drive.google.com/file/d/1MMXEVfxjoCdFsAZIRsIAR6m9kJol4MId/view)                   
 &nbsp;&nbsp;&nbsp;&nbsp;\[*PAKDD'25*\] Dong Li, Chen Zhao, **Guihong Wan**, Xintao Wu, Yevgeniy Semenov.            
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD), June 10th, 2025. [Website](https://sites.google.com/view/pakdd25tutorial/home)        
