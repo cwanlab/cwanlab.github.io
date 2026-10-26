@@ -18,7 +18,8 @@ redirect_from:
 
 **Research Assistants**      
 <span style="font-size:0.87em;">
-– Yusheng Tan, MS, 2026      
+– Yusheng Tan, 2026 (Computational)       
+– Sofia Angel, 2027 (Clinical)      
 <!-- – Yusheng Tan, MS in Computer Science, Washington University in St. Louis         -->
 <!-- – Chunjie Xu, MS in Computer Science, Beihang University and UMass Boston       -->
 </span>
