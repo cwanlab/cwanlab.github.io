@@ -10,16 +10,16 @@ redirect_from:
 
 **Postdoctoral Scholars**      
 <span style="font-size:0.87em;">
-– Xinxing Yang, PhD, 2026    
+– Running Zhao, PhD, 2026       
+– Xinxing Yang, PhD, 2026       
 <!-- , PhD, Shanghai Jiao Tong University      -->
-– Running Zhao, PhD, 2026     
 <!-- , PhD, The University of Hong Kong            -->
 </span>  
 
 **Research Assistants**      
 <span style="font-size:0.87em;">
-– Yusheng Tan, 2026 (Computational)      
 – Sofia Angel, 2027 (Clinical)      
+– Yusheng Tan, 2026 (Computational)        
 <!-- – Yusheng Tan, MS in Computer Science, Washington University in St. Louis         -->
 <!-- – Chunjie Xu, MS in Computer Science, Beihang University and UMass Boston       -->
 </span>
