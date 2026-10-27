@@ -31,6 +31,8 @@ Our work bridges algorithmic innovation and real-world application, developing b
 <!--  -->
 **2026**         
 <span style="font-size:0.78em;">
+– 10/2026: Our paper "Toward Personalized Sleep Guidance from Wearable Data Using Language Models" has been accepted for publication by Machine Learning for Health, 2026.     
+– 10/2026: Dr. Wan will serve as a grant reviewer for DOD.     
 – 09/2026: Dr. Wan will give a guest lecture on clinical data analysis at Harvard Medical School on November 6th.     
 – 09/2026: Dr. Wan will give a research talk on spatial biology at Northwestern University on October 7th.      
 – 07/2026: Our team science project "Explainable Artificial Intelligence for the Prediction of Melanoma Progression and Survival" has been selected for funding.                
